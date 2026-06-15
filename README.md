@@ -22,7 +22,7 @@ Plán letního roadtripu na Balkán v **Tesle Model 3 Long Range**.
 - 🗺️ **Do Google My Maps:** stáhni **[trasa.kml](trasa.kml)** → [My Maps](https://www.google.com/mymaps) → *Vytvořit mapu → Importovat* (My Maps umí KML/KMZ/GPX/CSV, **ne** GeoJSON).
 - 🌍 **Rychlý náhled bez účtu:** přetáhni `trasa.geojson` na [geojson.io](https://geojson.io).
 
-> Pozn.: čára spojuje zastávky úsečkami (přehled tvaru okruhu), ne přesné silnice. Reálné km jsou v itineráři.
+> Trasa kopíruje **reálné silnice** (vygenerováno přes OSRM). Ověřená silniční vzdálenost: **5 399 km**, ~82 h čisté jízdy.
 
 **Otevřená rozhodnutí k validaci:**
 - 🟦 **Athény** — volitelná smyčka, +5–7 dní (rozhodnutí na místě v Meteoře)
