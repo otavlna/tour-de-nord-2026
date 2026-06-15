@@ -22,6 +22,13 @@ Plán letního roadtripu na Balkán v **Tesle Model 3 Long Range**.
 - 🗺️ **Do Google My Maps:** stáhni **[trasa.kml](trasa.kml)** → [My Maps](https://www.google.com/mymaps) → *Vytvořit mapu → Importovat* (My Maps umí KML/KMZ/GPX/CSV, **ne** GeoJSON).
 - 🌍 **Rychlý náhled bez účtu:** přetáhni `trasa.geojson` na [geojson.io](https://geojson.io).
 
+**🧭 Přímo v Google Maps (klikací, navigovatelné):** trasa po úsecích (Google Maps bere ~10 zastávek na odkaz):
+
+1. **[Tachov → Dubrovník](https://www.google.com/maps/dir/Tachov/Cesky+Krumlov/Hallstatt/Bled/Ljubljana/Plitvice+Lakes+National+Park/Zadar/Sibenik/Split/Dubrovnik)** (CZ/AT/SLO/HR)
+2. **[Dubrovník → Himarë](https://www.google.com/maps/dir/Dubrovnik/Mostar/Sarajevo/Sutjeska+National+Park/Zabljak/Kotor/Theth/Shkoder/Tirana/Himare)** (HR/BiH/ČH/AL)
+3. **[Himarë → Bělehrad](https://www.google.com/maps/dir/Himare/Berat/Ohrid/Meteora/Litochoro/Thessaloniki/Skopje/Nis/Belgrade)** (AL/MK/GR/SRB)
+4. **[Bělehrad → domů](https://www.google.com/maps/dir/Belgrade/Budapest/Siofok/Tachov)** (SRB/HU/CZ)
+
 > Trasa kopíruje **reálné silnice** (vygenerováno přes OSRM). Ověřená silniční vzdálenost: **5 399 km**, ~82 h čisté jízdy.
 
 **Otevřená rozhodnutí k validaci:**
