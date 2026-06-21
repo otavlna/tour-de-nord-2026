@@ -9,6 +9,8 @@ Plán letního roadtripu na Balkán v **Tesle Model 3 Long Range**.
 |---|---|
 | **[ROADTRIP-PLAN.md](ROADTRIP-PLAN.md)** | Přehled: 3 varianty tras, rozpočet, info o nabíjení / spaní / vaření, checklist |
 | **[ITINERAR-B-plus.md](ITINERAR-B-plus.md)** | Vybraná trasa **B+** — kompletní rozpis den po dni (~40 dní) |
+| **[ALTERNATIVA-SEVER.md](ALTERNATIVA-SEVER.md)** | 🧭 *Alternativa:* roadtrip na sever (Skandinávie) — 3 varianty, rozpočet, mapy |
+| **[ITINERAR-SEVER-B.md](ITINERAR-SEVER-B.md)** | Severní trasa **B** (Fjordy + Lofoty) — rozpis den po dni (~35 dní) |
 
 ## 🔄 Vybraná trasa — "Velký okruh" (~40 dní, ~5 400 km)
 
@@ -37,6 +39,17 @@ Plán letního roadtripu na Balkán v **Tesle Model 3 Long Range**.
 
 ## 💸 Rozpočet (orientačně, 2 lidi, ~5–6 týdnů)
 **~2 400–3 400 €** všeho všudy (bez auta) — díky EV (~430 € elektřina) a spaní v autě.
+
+## 🧭 Alternativa: Tour de Nord (sever místo jihu)
+
+Kdyby vyhrál sever místo Balkánu — kompletní záložní plán ve stejném stylu. Velký okruh **Fjordy + Lofoty** (~35 dní, **~7 474 km**): nahoru norským pobřežím za polární kruh, zpět přes laponské Švédsko/Finsko + Pobaltí + Krakov.
+
+> **Tachov** → Berlín → Kodaň → Oslo → Bergen (fjordy) → Geiranger/Trollstigen → Trondheim → polární kruh → 🚢 **Lofoty** → Narvik → Abisko/Kiruna → Rovaniemi → Helsinki → 🚢 Tallinn → Riga → Vilnius → Varšava → Krakov → **domů**
+
+- 👀 Mapa: **[trasa-sever.geojson](trasa-sever.geojson)** (GitHub) · **[trasa-sever.kml](trasa-sever.kml)** (My Maps)
+- Detaily, varianty (až po Nordkapp), rozpočet a Google Maps odkazy → **[ALTERNATIVA-SEVER.md](ALTERNATIVA-SEVER.md)**
+
+**Sever vs. Balkán v kostce:** nabíjení = žádná starost (vs. Albánie limit) · spaní zdarma skoro všude (allemansrätten) · chladné noci = lepší spaní · ale dráž (jídlo ~2×) a víc kilometrů.
 
 ---
 *Plán je živý dokument — vzdálenosti, ceny a stav nabíjecí sítě se finálně ověří před cestou.*
