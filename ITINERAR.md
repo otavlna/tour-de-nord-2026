@@ -1,4 +1,4 @@
-# Itinerář — Sever, varianta B "Fjordy + Lofoty" 🏔️❄️
+# Itinerář — Varianta B "Fjordy + Lofoty" 🏔️❄️
 
 **~35 dní · ~7 474 km po silnicích + 2 trajekty · spaní v autě · Tesla M3 LR**
 

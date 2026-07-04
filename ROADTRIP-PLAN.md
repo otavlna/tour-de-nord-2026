@@ -1,148 +1,109 @@
-# Tour de Balkán 2026 🚗⚡
+# Tour de Nord 2026 🚗⚡❄️
 
 **Posádka:** M23 (řidič + remote práce ~2 h/den), F18
-**Auto:** Tesla Model 3 Long Range 2026 (~600 km WLTP, reálně ~450–500 km / ~16 kWh/100 km)
+**Auto:** Tesla Model 3 Long Range (~600 km WLTP)
 **Styl:** spaní v autě, budget, vidět co nejvíc
-**Start:** Tachov (záp. Čechy)
-**Termín:** léto 2026, otevřený konec (počítáme s 4–6 týdny)
-**Práce:** denní standup (potřeba signál) + **středa = meeting day** (potřeba spolehlivá wifi/4G) → středa je kotva každého týdne
+**Start/cíl:** Tachov · **Termín:** léto 2026, ~4–6 týdnů
+**Práce:** denní standup + **středa = meeting day** (jistá wifi) → středa = kotva každého týdne
+
+> Sever je pro EV + spaní v autě v lecčem vyloženě jednoduchý: nabíjení bez starostí, spaní zdarma skoro všude, chladné noci na výborné spaní.
 
 ---
 
-## 0) Tři věci, co určují celou trasu
+## 0) Proč sever sedí na Teslu + spaní v autě
 
-### ⚡ Nabíjení = hlavní limit (čím jižněji, tím hůř)
-- **Slovinsko, Chorvatsko, Srbsko, Řecko** → Superchargery + CCS v pohodě, plánuje se samo.
-- **Bosna, Černá Hora, Sev. Makedonie** → řidší, dá se, ale chce to plánovat dopředu (ne vždy Supercharger, často CCS od lokálních sítí).
-- **Albánie, Kosovo** → nejslabší. Pár nabíječek (hlavně Tirana), nutno počítat každý úsek. Jde to, ale je to dobrodružství.
-- **Nástroj č. 1: A Better Route Planner (ABRP)** — tam si trasu ověříme do detailu, až vybereme okruh. Plus appka Tesla + PlugShare na zálohu.
-- **Budget trik:** spát u/poblíž nabíječky, přes noc běží Camp Mode (klima), ráno se dobije. Nákupáky a destination chargery (hotely/restaurace) bývají levné/zdarma — ideál na pracovní den.
+### ⚡ Nabíjení = ŽÁDNÝ problém
+- **Norsko je EV velmoc světa** — Superchargery a rychlonabíječky úplně všude, i na **Lofotech** i u **Nordkappu**. Nejhustší síť na planetě.
+- **Dánsko, Švédsko, Finsko** → na hlavních tazích perfektní. Jen vnitrozemí finské Laponie je řidší (ale hlavní silnice OK).
+- Nemusíš řešit „dojedu?". Jediná starost je **cena** (severská elektřina je dražší, ale pořád zlomek nafty).
 
-### 🌡️ Léto + spaní v autě
-- Pobřeží v čec/srpnu: dny 30–35 °C, noci 22–25 °C. **Camp Mode** (Tesla drží klima celou noc) to vyřeší, ale sebere ~10–15 % baterie/noc → spát blízko nabíječky.
-- **Chytře:** horké poledne a noci trávit ve vyšších polohách ve vnitrozemí (Bosna, Durmitor, Triglav — noci klidně 12–18 °C). Spí se výborně a nepálíš baterku na klima.
-- Stínítka do oken (soukromí + teplo), sítě proti komárům (u vody jich je dost), karimatka/matrace na sklopené sedačky M3 (rovná plocha ~190 cm, vejdete se dva).
+### 🏕️ Wild camping je LEGÁLNÍ a ZDARMA (velká úspora!)
+- **Allemansrätten / right to roam** (Norsko, Švédsko, Finsko) → smíš stát/spát skoro kdekoliv v přírodě zdarma, i jednu noc na parkovišti u fjordu.
+- Spaní v autě je tu úplně běžné, appky **park4night / iOverlander** plné spotů.
 
-### 🛏️ Kde reálně stát
-- Mix: **placené kempy** (~15–25 €/noc — sprcha, bezpečí, často nabíjení) střídat s **divokým stáním** (zdarma, appky park4night / iOverlander).
-- Wild camping legální status: Slovinsko/Chorvatsko oficiálně zakázáno (pokuty), Černá Hora/Bosna/Albánie benevolentní. → na pobřeží spíš kempy, ve vnitrozemí/horách divočina.
+### 🌡️ Léto = ideál na spaní v autě, ale pozor na slunce
+- Noci chladné i v létě (i 5–12 °C) → **spí se výborně, Camp Mode skoro netřeba** = šetříš baterku.
+- **Půlnoční slunce** (nad polárním kruhem konec kvě–konec čec slunce nezapadá) → super na noční jízdy, ale **nutné zatemnění oken / masky na oči**, jinak nespíš.
 
----
-
-## 1) Pracovní rytmus (kotva = středa)
-
-Plán stavím tak, aby **každá středa padla na "základnu"** — město/kemp s jistou wifi a klidem na meeting day. Kolem toho:
-- **Po–Pá ráno:** 30–60 min standup z auta/kavárny (4G stačí).
-- **St:** celý den u základny, lehká práce + odpočinek, prádlo, nákup, plánování dalšího úseku.
-- **Velké přejezdy + treky:** čt–út, kdy je volněji.
-- Tempo: ~2–4 noci na místě, pak posun. Žádné šílené denní nájezdy.
+### 🚢 S čím počítat navíc
+- **Trajekty přes fjordy** (v Norsku jich pár nevyhneš, berou EV, často se slevou) + případný trajekt Helsinki–Tallinn.
+- **Mýtné a tunely v Norsku** (AutoPASS — registrovat auto, EV má slevu).
+- **Jídlo a alkohol** je v Skandinávii drahé. → vařit, nakupovat v Lidlu/Rema 1000, alkohol řešit z dutyfree/cestou.
 
 ---
 
-## 2) TRASY — tři varianty
+## 1) TRASY — tři varianty (všechny jako okruh, bez vracení stejnou cestou)
 
-> Vzdálenosti a dny jsou orientační. Všechny začínají **Tachov → přes Rakousko → Slovinsko** (Tachov–Ljubljana ~600 km, 1 nabíjecí zastávka, dá se za den; nebo v klidu se spaním u Salcburku/Grazu).
+> Start vždy: **Tachov → Berlín → Dánsko**. Dolů jednou stranou (Norsko/západ), nahoru/zpět druhou (Švédsko/Finsko/Pobaltí).
 
-### 🅰️ Varianta A — "Jadran Klasik" (~2–3 týdny, nejjednodušší nabíjení)
-Pobřeží + města, nízká nabíjecí starost. Dobrá, když nakonec nebudete chtít tak daleko.
+### 🅰️ Varianta A — "Jižní fjordy" (~3 týdny, nejjednodušší)
+`Tachov → Berlín → Kodaň → Göteborg → Oslo → Bergen → Geirangerfjord + Trollstigen → Lillehammer → Stockholm → trajekt/most → Kodaň → domů`
+- **Highlighty:** Kodaň, Oslo, **norské fjordy** (Bergen, Geiranger, Trollstigen), Stockholm.
+- **Plus:** nejmíň jízdy, pořád vidíš to nejhezčí z fjordů. **Žádné polární tempo.**
+- **Mínus:** bez Arktidy, Lofot, půlnočního slunce.
 
-`Tachov → Ljubljana → Bled/Bohinj/Triglav → Lublaň → Plitvická j. → Zadar → Krka NP → Split → Hvar/Brač → Dubrovník → Kotor (ČH) → návrat přes Chorvatsko`
+### 🅱️ Varianta B — "Fjordy + Lofoty" ⭐ (~5 týdnů, DOPORUČENÁ)
+Velký okruh: nahoru norským pobřežím až za polární kruh, zpět přes švédskou/finskou Laponii a Pobaltí. Pravý okruh přes spoustu zemí.
+`Tachov → Berlín → Kodaň 🟢 → Göteborg → Oslo 🟢 → Bergen → Geiranger/Trollstigen → Trondheim 🟢 → polární kruh → LOFOTY 🟢 → Narvik → Abisko + Kiruna (SE) → Rovaniemi (FI) 🟢 → Helsinki → 🚢 Tallinn → Riga 🟢 → Vilnius → Polsko (Varšava/Krakov) 🟢 → domů`
+- **Highlighty:** fjordy, **Lofoty** (nejhezčí ostrovy Evropy), polární kruh, **Abisko/Kiruna** (laponská divočina), **Rovaniemi** (Santa, půlnoční slunce), Helsinki, **Pobaltí** (Tallinn, Riga, Vilnius) + Krakov cestou domů.
+- **Nabíjení:** ✅ úplně celé (i Lofoty).
+- **Proč sedí na váš profil:** spousta zemí, čistý okruh, divočina + města + moře. Tempo s prací v pohodě.
 
-- **Highlighty:** Bledské jezero, Triglav, Plitvice, vodopády Krka, Split (Diokleciánův palác), ostrovy, Dubrovník, Boka Kotorska.
-- **Nabíjení:** ✅ celé po Superchargerech.
-- **Mínus:** v létě nejdražší a nejnabitější část Balkánu, nejmíň dobrodružství.
-
-### 🅱️ Varianta B — "Velký balkánský okruh" ⭐ (~4 týdny, doporučená pro váš profil)
-Sea + hory + města + divočina. Smyčka, takže se nevracíš stejnou cestou. **Tohle je dle tvých odpovědí nejlepší poměr "vidět všechno / zvládnutelné nabíjení".**
-
-`Tachov → Ljubljana → Triglav/Bled → Plitvice → Zadar/Krka → Split → Mostar (BiH) → Sarajevo → Sutjeska NP → Durmitor NP (ČH) → Kotor/Budva → Dubrovník → návrat přes Bosnu/Srbsko (Bělehrad) → Maďarsko → domů`
-
-- **Highlighty:** Triglav, Plitvice, Krka, Split, **Mostar** (most), **Sarajevo**, kaňon Tary + **Durmitor** (nejhezčí hory regionu, chladné noci 👌), Kotor, Bělehrad.
-- **Nabíjení:** ⚠️ Bosna + ČH chtějí plánování (Mostar/Sarajevo/Podgorica mají, mezi tím řidčeji). Přes Srbsko zpět zase pohoda.
-- **Tempo:** sedí na 4 týdny s prací, dá se natáhnout.
-
-### ⭐⭐ Varianta B+ — "Velký okruh" (VYBRÁNO, ~5 týdnů, žádné vracení stejnou cestou)
-Kompromis mezi B a C jako **čistá smyčka**: dolů po jadranské (západní) straně, nahoru vnitrozemím přes Srbsko a Maďarsko. Sáhne až po severní Řecko (Meteora), ale necommituje se do hlubokého Řecka. Klidné zastávky už cestou tam — žádný rush na Balkán.
-
-#### Cesta TAM (dolů, západní strana)
-1. **Tachov → Český Krumlov (CZ)** — UNESCO městečko, ~2,5 h, rozjezdová noc
-2. **→ Hallstatt / Solná komora (AT)** — ledovcová jezera, hike, fotka století
-3. **→ Bled + Bohinj + Triglav NP + soutěska Vintgar (SLO)**
-4. **→ Ljubljana (SLO)** 🟢 *kotva na středu*
-5. **→ Plitvická jezera NP (HR)**
-6. **→ Zadar + Krka NP (HR)** — vodopády, mořský varhany v Zadaru
-7. **→ Split (HR)** 🟢 *kotva na středu* — Diokleciánův palác, trajekt na Hvar/Brač (volitelně)
-8. **→ Ston/Pelješac → Dubrovník (HR)** — hradby, „King's Landing"
-
-#### Vnitrozemní oblouk (Bosna → hory ČH)
-9. **→ Mostar (BiH)** — Stari Most, orientální atmosféra
-10. **→ Sarajevo (BiH)** 🟢 *kotva na středu* — historie, jídlo, levné
-11. **→ Sutjeska NP (BiH)** — prales Perućica, hora Maglić
-12. **→ Durmitor NP + kaňon Tary (ČH)** — nejhezčí hory, **chladné noci = paráda na spaní** 🏔️
-
-#### Pobřeží ČH → jih (sem sahá „déčko")
-13. **→ Kotor + Budva (ČH)** 🟢 *kotva na středu* — Boka, staré město
-14. **→ Albánie: Theth (Prokletije) → Tirana → Riviéra (Ksamil/Himarë) → Berat** 🟢 *kotva (Tirana/Berat)* — levné, divoké, alpské i pláže
-15. **→ Ohrid (Sev. Makedonie)** 🟢 *kotva* — nejstarší jezero Evropy
-16. **→ Meteora (Řecko)** — kláštery na skalách = nejjižnější bod, „ochutnávka" Řecka
-
-#### Cesta ZPĚT (nahoru, východní strana — nová cesta!)
-17. **→ Skopje (Sev. Makedonie)** — bizarní sochy, bazar
-18. **→ Niš → Bělehrad (Srbsko)** 🟢 *kotva* — pevnost, nightlife, levné
-19. **→ Budapešť (Maďarsko)** 🟢 *kotva* — termální lázně, město
-20. **→ Bratislava (SK) / Brno → Tachov** — doražení smyčky domů
-
-- **Nabíjení:** ✅ Rakousko/Slovinsko/Chorvatsko/Srbsko/Maďarsko/Řecko · ⚠️ Bosna/ČH plánovat · 🔴 Albánie nejnáročnější úsek (ABRP povinně, rezerva)
-- **Délka:** ~5 týdnů pohodově s prací; dá se zkrátit (vynechat Meteoru/zkrátit Albánii) nebo natáhnout (víc ostrovů, hlubší Řecko).
-- **Proč funguje:** je to skutečný kruh — domů se vrací úplně jinou trasou než tam.
-
-### 🅲️ Varianta C — "Až po Řecko" (~5–6 týdnů, max nájezd, nejvíc "wow")
-Dolů jednou stranou, nahoru druhou. Nejdobrodružnější (Albánie!) a nejvíc rozmanité.
-
-`... (jako B po Černou Horu) → Černá Hora → ALBÁNIE (Theth, Riviéra, Berat) → Ohrid (S. Makedonie) → ŘECKO (Meteora, Soluň, příp. Chalkidiki/poloostrovy) → návrat přes Makedonii → Srbsko (Bělehrad) → Maďarsko → domů`
-
-- **Highlighty navíc:** alpské **Theth** v Prokletije, albánská **Riviéra** (levné pláže), **Berat**, jezero **Ohrid**, **Meteora** (kláštery na skalách), Soluň, řecké pláže.
-- **Nabíjení:** 🔴 Albánie + Makedonie nejnáročnější úsek (Tirana ano, jinak řídce — ABRP povinně, rezerva v plánu). Řecko zase ✅ výborné.
-- **Pozor:** Albánie + horské silnice = pomalejší tempo, počítat víc dní.
+### 🅲️ Varianta C — "Až na Nordkapp" (~6–7 týdnů, max sever)
+Jako B, ale z Lofot ještě nahoru na **nejsevernější bod Evropy**:
+`... Lofoty → Tromsø → Alta → NORDKAPP → Inari + finská Laponie → Rovaniemi → (dál jako B přes Helsinki/Pobaltí domů)`
+- **Highlighty navíc:** **Tromsø** ("brána Arktidy"), **Nordkapp** (71° s. š., půlnoční slunce nad oceánem), divoká **finská Laponie** (sobi, Inari, Saamiland).
+- **Mínus:** hodně kilometrů navíc (Nordkapp je fakt daleko), ale nabíjení i tam OK.
 
 ---
 
-## 3) Rozpočet (orientačně, 2 lidi, ~5–6 týdnů, budget styl)
+## 1b) Trasa B na mapě 🗺️
+
+**🧭 Přímo v Google Maps (klikací, navigovatelné)** — 3 úseky podle dvou trajektů:
+
+1. **[Tachov → Trondheim](https://www.google.com/maps/dir/Tachov/Berlin/Copenhagen/Goteborg/Oslo/Flam/Bergen/Geiranger/Andalsnes/Trondheim)** (DE/DK/SE + jižní Norsko a fjordy)
+2. **[Trondheim → Helsinki](https://www.google.com/maps/dir/Trondheim/Mo+i+Rana/Bodo/Svolvaer/Narvik/Abisko/Kiruna/Rovaniemi/Oulu/Helsinki)** (polární kruh, Lofoty, Laponie) — *🚢 Bodø→Lofoty trajektem*
+3. **[Tallinn → domů](https://www.google.com/maps/dir/Tallinn/Riga/Vilnius/Warszawa/Krakow/Tachov)** (Pobaltí + Polsko) — *🚢 Helsinki→Tallinn trajektem*
+
+**🗺️ Celý okruh naráz:** `trasa.geojson` (náhled na GitHubu) · `trasa.kml` (import do [Google My Maps](https://www.google.com/mymaps)) — trasa po silnicích (přes OSRM) + trajekty modře. Ověřeno: **~7 474 km po silnicích**.
+
+> Pozn.: Google Maps občas u úseku 2 zkusí objet trajekt po souši (dlouhá zajížďka) — Lofoty jsou ale dostupné i po silnici (E10 od Narviku), takže to v reálu vyřešíš podle nabíječek a chuti na trajekt.
+
+## 2) Rozpočet (orientačně, 2 lidi, ~5–6 týdnů, varianta B)
 
 | Položka | Odhad | Pozn. |
 |---|---|---|
-| **Elektřina** | 350–500 € | ~6 000 km, EV je tu obří úspora vs. benzín (~1 500 € by stál diesel) |
-| **Mýtné + dálniční známky** | 150–250 € | Rakousko, Slovinsko, Maďarsko (známky) + Chorvatsko/Řecko (per use) |
-| **Spaní (kempy)** | 300–450 € | ~20 placených nocí à ~20 €, zbytek divoko |
-| **Jídlo** | 1 000–1 400 € | vaření + občas restaurace, ~25–35 €/den |
-| **Vstupy / NP / trajekty** | 300–500 € | Plitvice ⚠️ ~40 €/os v létě, Krka, Durmitor, Meteora, ostrovní trajekty |
-| **Rezerva** | 300 € | poruchy, počasí, výlety |
-| **CELKEM** | **~2 400–3 400 €** | bez auta; super levné na 6 týdnů díky EV + spaní v autě |
+| **Elektřina** | 450–650 € | ~7 000 km; pořád levné vs. nafta (~2 200 €) |
+| **Trajekty** | 200–400 € | norské fjordové + Helsinki–Tallinn (EV slevy) |
+| **Mýto/tunely (Norsko)** | 150–300 € | AutoPASS, EV sleva |
+| **Spaní** | 50–200 € | **většinou ZDARMA** (allemansrätten!), občas kemp na sprchu/prádlo |
+| **Jídlo** | 1 800–2 500 € | Skandinávie drahá, vařit; ~45–55 €/den pro dva |
+| **Vstupy/aktivity** | 200–400 € | NP, lanovky, muzea, příp. velrybí/sobí výlet |
+| **Rezerva** | 300 € | počasí, trajekty, poruchy |
+| **CELKEM** | **~3 200–4 800 €** | spaní zdarma dost srovnává dražší jídlo |
 
 ---
 
-## 4) Checklist do auta (spaní + práce + EV)
-- [ ] Matrace/karimatka na rovnou plochu (sklopené zadní sedačky M3)
-- [ ] Stínítka do všech oken (soukromí, teplo, ráno tma)
-- [ ] Sítě proti komárům na okna
-- [ ] Powerbanka + nabíječky, **mobilní hotspot / eSIM** s daty pro celý region (kvůli středám!)
-- [ ] Tesla Mobile Connector + CCS adaptér ✅, kabel Typ 2 na AC
-- [ ] ABRP účet (Premium na trip se vyplatí), PlugShare, park4night, iOverlander
-- [ ] Chladící box (12V), vařič, základní nádobí
-- [ ] Lékárnička, doklady, **zelená karta / pojištění do všech zemí** (pozor: ČH, Albánie, Sev. Makedonie, Kosovo někdy nejsou v EU pojištění — ověřit!)
-- [ ] Hotovost v lokálních měnách (ČH/Kosovo = €, ale BiH = KM, Srbsko = RSD, Albánie = ALL, Makedonie = MKD)
+## 3) Checklist do auta (spaní + práce + EV)
+- [ ] **Zatemnění oken / masky na oči** — kvůli půlnočnímu slunci (jinak nevyspíte)
+- [ ] **Teplé spacáky** — i v létě jsou noci na severu chladné (5–12 °C)
+- [ ] **AutoPASS** registrace auta (norské mýto/trajekty automaticky a se slevou)
+- [ ] **Repelent/sítě proti komárům** — laponské léto = komáři brutál
+- [ ] Trajekt **Helsinki–Tallinn** rezervovat dopředu (Tallink/Eckerö, berou auto)
+- [ ] Měny: Dánsko/Švédsko/Norsko mají **vlastní koruny** (ne €!), Finsko/Pobaltí = €. Většinou se platí kartou všude.
+- [ ] Matrace na sklopenou M3, plynový vařič, 12V chladící box, eSIM s daty, Tesla Mobile Connector + CCS adaptér
 
 ---
 
-## 5) Doporučení & další krok
+## 4) Doporučení & další krok
 
-**Doporučuju Variantu B jako základ** a nechat si **otevřené prodloužení do C (Řecko/Albánie)** podle toho, jak vám bude sedět tempo a nabíjení v Bosně/ČH. Když to v terénu klapne a čas/peníze jsou, pokračujete na jih; když ne, vrátíte se klidně přes Srbsko. Smyčka funguje pro obě.
+**Doporučuju Variantu B** — fjordy + Lofoty + Laponie + Pobaltí + Krakov, čistá smyčka, nabíjení úplně bez starostí. Dá se zkrátit (otočka už za fjordy = varianta A) i natáhnout do C (Nordkapp).
 
-**Až vybereš variantu, udělám:**
-1. Detailní rozpis po dnech s kotvami na středy (kde bude wifi na meeting day).
-2. Ověření nabíjení v ABRP — konkrétní nabíječky na každém úseku + záložní plán pro Bosnu/ČH/Albánii.
-3. Seznam konkrétních spotů na spaní (kemp / divočina) podél trasy.
-4. Must-see vs. nice-to-have u každé zastávky, ať to nehoníme.
+**Až vybereš variantu, dodělám:**
+1. Detailní rozpis po dnech s kotvami na středy.
+2. Mapu (geojson + kml + Google Maps odkazy) s reálnou silniční trasou + ověřené km přes OSRM.
+3. Spoty na spaní (allemansrätten parkoviště u fjordů, park4night).
+4. Highlighty must-see vs. nice-to-have.
 
 ---
-*Pozn.: Ceny vstupů, stav nabíjecí sítě a pravidla wild campingu se mění — vše finální ověříme těsně před/během cesty.*
+*Pozn.: ceny trajektů, stav nabíjení a pravidla se ověří před cestou.*
