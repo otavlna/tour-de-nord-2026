@@ -92,6 +92,7 @@ Jako B, ale z Lofot ještě nahoru na **nejsevernější bod Evropy**:
 - [ ] Trajekt **Helsinki–Tallinn** rezervovat dopředu (Tallink/Eckerö, berou auto)
 - [ ] Měny: Dánsko/Švédsko/Norsko mají **vlastní koruny** (ne €!), Finsko/Pobaltí = €. Většinou se platí kartou všude.
 - [ ] Matrace na sklopenou M3, plynový vařič, 12V chladící box, eSIM s daty, Tesla Mobile Connector + CCS adaptér
+- [ ] **Spotřební věci & hygiena** (hajzlpapír, mýdlo, repelent, saponát, léky…) → viz **[JIDLO.md](JIDLO.md#-spotřební-věci--hygiena-2-lidi-35-dní)**
 
 ---
 

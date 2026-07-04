@@ -131,4 +131,53 @@ V Modelu 3 (kufr ~425 l + frunk ~88 l) je to ~pětina prostoru. **Konzervy (nejt
 - **Finsko / Švédsko:** Lidl (nejlevnější v regionu), jinak K-Market/ICA/Coop.
 - **Norsko (nejdražší):** Kiwi, Rema 1000, Coop Extra — nejlevnější řetězce; nakupuj minimum, spoléhej na zásoby + rybu.
 
-**Nezapomeň (nejídlo):** alobal, ZIP sáčky, utěrky/houbička + saponát, pytle na odpad, zapalovač/sirky navíc, **kanystr na vodu 5–10 l**, otvírák na konzervy.
+## 🧻 Spotřební věci & hygiena (2 lidi, ~35 dní)
+
+Kalkulováno na dlouhý pobyt v autě bez domácí koupelny. Většina se dá levně nabrat v **dm / Rossmann / Teta / Action**, základ v Penny/Lidlu. **Repelent a opalovací krém kup doma** — na severu jsou drahé.
+
+### Toaleta & mytí
+| Položka | Množství | Pozn. |
+|---|---|---|
+| Toaletní papír | 10–12 rolí | dobrat na místě |
+| Vlhčené ubrousky | 3 velká balení | „sprcha" bez vody |
+| Ruční dezinfekce (gel) | 2 | jíte rukama v autě, WC v přírodě |
+| Papírové kapesníky | 4 balení | |
+| **Eko mýdlo / sprchový gel** | 1 velký + náhrada | ⚠️ biologicky rozložitelný — mytí v jezerech/přírodě |
+| Šampon | 1 | |
+| Zubní pasta ×2 + náhradní kartáčky + nit | | |
+| Deodorant | ×2 | |
+
+### Ochrana (specifika severu) ⚠️
+| Položka | Množství | Pozn. |
+|---|---|---|
+| **Repelent** (DEET / Icaridin) | 2 + síťky na hlavu | laponské léto = komáři brutál |
+| Krém po štípancích / antihistaminikum | 1 | |
+| Opalovací krém SPF | 1–2 | dlouhé dny + odlesk od vody |
+| Balzám na rty s SPF | 1 | |
+
+### Kuchyň — spotřební
+| Položka | Množství |
+|---|---|
+| Saponát na nádobí (eko koncentrát) | 1 |
+| Houbičky / kartáček na nádobí | 3–4 |
+| Kuchyňské papírové utěrky (role) | 4 |
+| Alobal | 2 role (ryba!) |
+| ZIP / vakuové sáčky | sada |
+| Zápalky + zapalovače | 3 (záloha k vařiči) |
+| Otvírák na konzervy | 1 |
+
+### Úklid, odpad, praní
+| Položka | Množství |
+|---|---|
+| Pytle na odpad 35 l | 2 role (na severu odpad odvážíš) |
+| Menší sáčky do auta | 1 role |
+| Cestovní prací gel / kapsle | 1 balení (35 dní = praní v laundromatu/kempu) |
+| Šňůra na prádlo + kolíčky | 1 |
+| Drobné / karta na laundromaty | — (kempy, maríny) |
+
+### Lékárnička & baterie
+- **Lékárnička:** náplasti (+ na puchýře Compeed na treky), dezinfekce, ibuprofen/paralen, Imodium, rehydratační soli, antihistaminika, léky na nevolnost (trajekt), **osobní léky**.
+- Baterie AA/AAA do čelovky + náhradní.
+- **Kanystr na vodu 5–10 l.**
+
+> 🔧 **Vybavení a povinná výbava** (reflexní vesty ×2, trojúhelník, lékárnička do auta, zatemnění oken, spacáky, čelovka, rychleschnoucí ručníky, matrace, vařič) → viz **[checklist v ROADTRIP-PLAN.md](ROADTRIP-PLAN.md#3-checklist-do-auta-spaní--práce--ev)**.
