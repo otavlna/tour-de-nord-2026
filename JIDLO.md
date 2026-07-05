@@ -96,8 +96,14 @@ Cibule, česnek, brambory, mrkev — vydrží týdny, základ chuti. Sušené ho
 
 ## 🔥 Plyn
 
-Vaření 2–3× denně → cca **1 kartuše 230 g na ~3 dny** → **vezmi 10–12× 230 g**.
-Kup předem v ČR / Decathlonu (na severu drahé a hůř sehnatelné). Na trajekt kartuše nech v autě, ne do kabiny.
+**Typ: šroubovací kartuše se závitem (EN417), směs isobutan/propan** — resealovatelné, fungují v chladu a **seženeš je po celé Skandinávii** (Biltema, XXL, Clas Ohlson, outdoor; Primus je švédská značka).
+- Spotřeba: ~1 kartuše 230 g na ~3–4 dny vaření pro 2 → za celý trip **~9–12× 230 g**.
+- **Vezmi ~5–6 ks z domova** (Decathlon — levněji + jistá kompatibilita), zbytek **průběžně dokupuj cestou** (ve Skandinávii dostupné, jen dráž).
+- Na trajekt kartuše nech v autě, ne do kabiny.
+
+**Vařič:** šroubovací na kartuši — Forclaz MT500 Piezo + stabilizační trojnožka (viz [VYBAVA.md](VYBAVA.md)).
+
+⚠️ **Bezpečnost:** nikdy nevař v zavřeném autě (CO + požár). U vařiče našroubovaného na kartuši **neobtáčej kartuši těsným větrným krytem** (hrozí přehřátí) — radši zacloň vítr autem/terénem.
 
 ## 📦 Objem a balení
 

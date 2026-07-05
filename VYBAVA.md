@@ -20,7 +20,7 @@ Spotřební věci & hygiena → [JIDLO.md](JIDLO.md#-spotřební-věci--hygiena-
 - ℹ️ **Adaptér zásuvek netřeba** — Skandinávie i Pobaltí mají stejné zásuvky (typ C/F) jako ČR
 
 ## 🍳 Kuchyně & voda (nádobí)
-- [ ] **Plynový vařič + kartuše** (10–12× 230 g — viz JIDLO.md)
+- [ ] **Plynový vařič** — šroubovací na kartuši (**Forclaz MT500 Piezo** ~899 Kč) + **stabilizační trojnožka** na kartuši + šroubovací kartuše 230 g (plyn viz [JIDLO.md](JIDLO.md#-plyn))
 - [ ] **Hrnec + pánev** (pánev na rybu!) + poklice
 - [ ] Ešusy/misky, hrnky, příbory
 - [ ] Obracečka, naběračka, kuchyňský nůž, prkénko
