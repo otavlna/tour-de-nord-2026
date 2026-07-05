@@ -39,7 +39,15 @@ Spotřební věci & hygiena → [JIDLO.md](JIDLO.md#-spotřební-věci--hygiena-
 - [ ] **Rýč/lopatka** (na „kadibudku" při wild campingu)
 - [ ] Hustilka / lepení na pneu (Tesla nemá rezervu)
 - [ ] Tažné/vyprošťovací lano
-- [ ] *Volitelně: malá skládací pilka nebo sekyrka* — **jen když plánujete oheň** (pozor na letní zákazy ohně v NO/SE/FI); na plynu vaříte tak jako tak
+
+## 🆘 Nouzové přežití (dojde plyn/elektrika a je zima)
+Krajní pojistka pro odlehlé úseky (Laponsko). Sekera sama nestačí — funguje jen s celým balíčkem:
+- [ ] **Malá sekyrka a/nebo skládací pilka** — dřevo na oheň (pilka = bezpečnější, ber jako primární)
+- [ ] **Spolehlivé zapálení:** ferro tyčinka (křesadlo) + voděodolné sirky/zapalovač + **podpalovače / tuhý líh** + kousek troudu
+- [ ] **Izotermické fólie / nouzový bivak (space blanket)** — teplo nezávislé na ohni, váží nic
+- [ ] Teplé vrstvy navíc (viz oblečení) — **první obrana proti zimě**, dřív než oheň
+- [ ] Nabitá powerbanka
+- ℹ️ **112 funguje všude v EU**; auto = přístřešek. Zákaz ohně se na skutečnou nouzi nevztahuje (jde o život), ale je to až krajní řešení — teplo primárně řeš spacáky + fóliemi.
 
 ## 🚗 Auto — povinná výbava & doklady
 - [ ] **2× reflexní vesta** (ve Skandinávii povinné pro osádku)
