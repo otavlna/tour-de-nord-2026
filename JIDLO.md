@@ -103,6 +103,10 @@ Cibule, česnek, brambory, mrkev — vydrží týdny, základ chuti. Sušené ho
 
 **Vařič:** šroubovací na kartuši — Forclaz MT500 Piezo + stabilizační trojnožka (viz [VYBAVA.md](VYBAVA.md)).
 
+**Správná kartuše:** Decathlon **„Šroubovací plynová kartuše 230 g" (Forclaz, 119 Kč)** — má závit 7/16", sedí na MT500.
+- ✅ **Pozná se podle slova „šroubovací"** v názvu (závit 7/16").
+- ❌ **NE „s ventilem CP 250 / CV470"** (Campingaz bajonet pro Camp Bistro) ani vysoké „flaškové" butanové kartuše z Allegra — nemají závit, nesednou. Pozor: „EN417" v popisu ještě neznamená šroubovací (norma zahrnuje víc typů ventilů)!
+
 ⚠️ **Bezpečnost:** nikdy nevař v zavřeném autě (CO + požár). U vařiče našroubovaného na kartuši **neobtáčej kartuši těsným větrným krytem** (hrozí přehřátí) — radši zacloň vítr autem/terénem.
 
 ## 📦 Objem a balení
