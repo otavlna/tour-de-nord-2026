@@ -85,6 +85,7 @@ Jako B, ale z Lofot ještě nahoru na **nejsevernější bod Evropy**:
 ---
 
 ## 3) Checklist do auta (spaní + práce + EV)
+> 📋 Kompletní balicí seznam vybavení (spaní, kuchyně, nářadí, oblečení, elektronika) → **[VYBAVA.md](VYBAVA.md)**. Níže jen klíčové body.
 - [ ] **Zatemnění oken / masky na oči** — kvůli půlnočnímu slunci (jinak nevyspíte)
 - [ ] **Teplé spacáky** — i v létě jsou noci na severu chladné (5–12 °C)
 - [ ] **AutoPASS** registrace auta (norské mýto/trajekty automaticky a se slevou)
