@@ -43,7 +43,8 @@ Spotřební věci & hygiena → [JIDLO.md](JIDLO.md#-spotřební-věci--hygiena-
 ## 🆘 Nouzové přežití (dojde plyn/elektrika a je zima)
 Krajní pojistka pro odlehlé úseky (Laponsko). Sekera sama nestačí — funguje jen s celým balíčkem:
 - [ ] **Malá sekyrka a/nebo skládací pilka** — dřevo na oheň (pilka = bezpečnější, ber jako primární)
-- [ ] **Spolehlivé zapálení:** ferro tyčinka (křesadlo) + voděodolné sirky/zapalovač + **podpalovače / tuhý líh** + kousek troudu
+- [x] **Zapálení: sirky + PePo (tuhý podpalovač)** ✅ máme — na běžný oheň i troud stačí
+- [ ] Do nouzovky přidat: **záložní zapalovač** + sirky zabalit vodotěsně (ZIP); ideálně **ferro křesadlo** (~100 Kč, funguje i mokré/ve větru — pojistka, když sirky selžou)
 - [ ] **Izotermické fólie / nouzový bivak (space blanket)** — teplo nezávislé na ohni, váží nic
 - [ ] Teplé vrstvy navíc (viz oblečení) — **první obrana proti zimě**, dřív než oheň
 - [ ] Nabitá powerbanka
