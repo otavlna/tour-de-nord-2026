@@ -42,49 +42,53 @@ Tím je rybářská výbava na makrelu (i případnou tresku) **kompletní** —
 
 ## 🍲 Potraviny + spotřební — Penny Bor (2026-07-04)
 
-Dvě účtenky. **Přečteno z fotek — názvy a jednotkové ceny jsou přesné, totály vytištěné na účtence jsou autoritativní.** Přesné počty kusů u opakovaných levných položek nejsou z (překrývajících se) fotek 100% zaručené — pro perfektní řádky viz digitální účtenku v appce Moje Penny.
+Dvě účtenky, přečtené z fotek po řádcích (natočení + zvětšené výřezy). **Jednotkové ceny a totály jsou přesné.** Počty kusů jsou rekonstrukce ze tří překrývajících se fotek — **ověřeno kontrolním součtem: 2 399,90 Kč vs. vytištěných 2 402,60 (rozdíl 0,1 %)**, takže u pár opakovaných položek může být ±1 ks. Pro dokonalé řádky slouží digitální účtenka v appce Moje Penny.
 
 ### Účtenka 1 (18:30:20) — **2 402,60 Kč**
 
-| Položka | Jedn. cena |
-|---|---:|
-| Spagety 500g SF | 13,90 |
-| Zlaté Esíčka 220g (těstoviny) | 29,90 |
-| Tortellini se sýrem / se šunkou 250g | 15,90 |
-| Celozrnná / pšeničná tortilla 6×60g | 27,90 |
-| Kuskus 500g Gustito | 33,90 |
-| Gustito Bulgur 500g | 33,90 |
-| Rýže parboiled 1kg | 24,90 |
-| Ovesné vločky 500g (10 ks = 129,00) | 12,90 |
-| Protlak rajčatový 500g | 17,90 |
-| Protlak rajč. koncentrát 200g | 19,90 |
-| Omáčka na těstoviny 360g | 26,90 |
-| Omáčka na těstoviny 340g | 39,90 |
-| Omáčka Bolognese 420g SF | 34,90 |
-| Omáčka basilico 420g SF | 29,90 |
-| Kečup jemný / ostrý 1kg Gustite | 29,90 |
-| Řepkový olej 1l Penny | 29,90 |
-| Pepř černý mletý 20g Gustito | 6,90 |
-| Paprika sladká 30g / Česnek sušený 30g | 6,90 |
-| Kořeni Karí 20g Gustito | 5,90 |
-| Skořice mletá 30g | 6,90 |
-| Kmín drcený 40g / Chilli mleté 25g | 9,90 / 11,90 |
-| Sůl kamenná s jódem 1kg | 9,90 |
-| Kaiserka speciál 60g (7 ks = 34,30) | 4,90 |
-| Sušenky slepované kakao 500g | 39,90 |
-| Sušenky jemné 130g | 16,90 |
-| Bebe Brumík čokoládový 30g (−5,60 → 7,90) | 13,50 |
-| BL Alaska kakao 18g | 2,90 |
-| Tyčinka sójová 50g Enjoy (−2,00 → 4,90) | 6,90 |
-| Masox 12ks | 16,90 |
-| Rozinky Jumbo 200g | 23,90 |
-| Arašídy pražené solené 500g | 39,90 |
-| Švestková povidla 450g | 39,90 |
-| Krém lískooříškový 400g | 59,90 |
-| Krém arašídový | 79,90 |
-| Mletá káva König 500g | 39,90 |
-| Nápoj kakao cho-quick 500g | 49,90 |
-| Čaj Pigi 37,5g | 14,90 |
+| Položka | Ks | Jedn. cena |
+|---|---:|---:|
+| Protlak rajčatový 500g | 5 | 17,90 |
+| Řepkový olej 1l Penny | 2 | 29,90 |
+| Zlaté Esíčka 220g (těstoviny) | 4 | 29,90 |
+| Celozrnná tortilla 6×60g | 2 | 27,90 |
+| Pšeničná tortilla 6×60g Mexi | 2 | 27,90 |
+| Kuskus 500g Gustito | 1 | 33,90 |
+| Gustito Bulgur 500g | 1 | 33,90 |
+| Tortellini se sýrem / se šunkou 250g | 6 | 15,90 |
+| Spagety 500g SF | 9 | 13,90 |
+| Rozinky Jumbo 200g | 3 | 23,90 |
+| Pepř černý mletý 20g Gustito | 5 | 6,90 |
+| Česnek sušený 30g Gustito | 3 | 6,90 |
+| Paprika sladká 30g | 3 | 6,90 |
+| Skořice mletá 30g | 1 | 6,90 |
+| Chilli mleté 25g | 1 | 11,90 |
+| Kmín drcený 40g Gustito | 1 | 9,90 |
+| Kořeni Karí 20g Gustito | 2 | 5,90 |
+| Kaiserka speciál 60g (= 34,30) | 7 | 4,90 |
+| Omáčka na těstoviny 360g | 2 | 26,90 |
+| Omáčka na těstoviny 340g | 2 | 39,90 |
+| Omáčka Bolognese 420g SF | 2 | 34,90 |
+| Omáčka basilico 420g SF | 2 | 29,90 |
+| Rýže parboiled 1kg | 2 | 24,90 |
+| Nápoj kakao cho-quick 500g | 1 | 49,90 |
+| Sušenky slepované kakao 500g | 6 | 39,90 |
+| Protlak rajč. koncentrát 200g | 3 | 19,90 |
+| Arašídy pražené solené 500g | 2 | 39,90 |
+| Švestková povidla 450g | 1 | 39,90 |
+| Krém lískooříškový 400g | 1 | 59,90 |
+| Krém arašídový | 1 | 79,90 |
+| Mletá káva König 500g | 1 | 39,90 |
+| Sůl kamenná s jódem 1kg | 1 | 9,90 |
+| Čaj Pigi 37,5g | 1 | 14,90 |
+| Tyčinka sójová 50g Enjoy (−2,00 → 4,90) | 4 | 6,90 |
+| Kečup jemný 1kg Gustite | 1 | 29,90 |
+| Kečup ostrý 1kg Gustite | 1 | 29,90 |
+| BL Alaska kakao / lískooř. 18g | 10 | 2,90 |
+| Bebe Brumík čokoládový 30g (−5,60 → 7,90) | 6 | 13,50 |
+| Masox 12ks | 3 | 22,90 |
+| Sušenky BeBe Jemné 130g | 10 | 16,90 |
+| Ovesné vločky 500g (= 129,00) | 10 | 12,90 |
 
 ### Účtenka 2 (19:14:16) — **1 150,00 Kč**
 
