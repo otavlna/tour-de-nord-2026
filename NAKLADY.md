@@ -9,8 +9,8 @@ Průběžná dokumentace útraty na **přípravu** cesty (zásoby, vybavení). S
 | Kategorie | Kč | ≈ € |
 |---|---:|---:|
 | 🍲 Trvanlivé potraviny (Penny) | ~3 500 | ~140 |
-| 🎣 Rybářská výbava (Decathlon) | 1 545 | 62 |
-| **CELKEM zatím** | **~5 045** | **~202** |
+| 🎣 Rybářská výbava (Decathlon) | 1 245 | 50 |
+| **CELKEM zatím** | **~4 745** | **~190** |
 
 ---
 
@@ -23,7 +23,9 @@ Průběžná dokumentace útraty na **přípravu** cesty (zásoby, vybavení). S
 | **Rybářské pončo** nepromokavé 100 | 1 | 179 Kč |
 | **Olovo Parangal 60 g** | 1 | 109 Kč |
 | **Rybářský nůž SW KN SAR** | 1 | 229 Kč |
-| **Celkem** | | **1 545 Kč** |
+| Mezisoučet | | 1 545 Kč |
+| Sleva (kupony) | | −300 Kč |
+| **Celkem (po slevě)** | | **1 245 Kč** |
 
 Tím je rybářská výbava na makrelu (i případnou tresku) **kompletní** — viz sekce 🎣 v [JIDLO.md](JIDLO.md).
 
