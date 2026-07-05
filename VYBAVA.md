@@ -12,11 +12,11 @@ Spotřební věci & hygiena → [JIDLO.md](JIDLO.md#-spotřební-věci--hygiena-
 - [ ] Deka
 
 ## 🔦 Osvětlení & energie
-- [ ] **Čelovka ×2** + náhradní baterie
-- [ ] Kempová LED lucerna (světlo na vaření/večer)
+- [ ] **Kempová LED lucerna** (světlo na vaření/večer) — hlavní zdroj světla
 - [ ] Velká powerbanka
 - [ ] Nabíječky + **USB-C / USB kabely**, 12V USB adaptér do auta
-- [ ] Baterie AA/AAA do zásoby
+- [ ] Baterie do lucerny (dle typu) do zásoby
+- ℹ️ Čelovky nebereme — na svícení lucerna + mobily
 - ℹ️ **Adaptér zásuvek netřeba** — Skandinávie i Pobaltí mají stejné zásuvky (typ C/F) jako ČR
 
 ## 🍳 Kuchyně & voda (nádobí)

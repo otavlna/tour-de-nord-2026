@@ -177,7 +177,7 @@ Kalkulováno na dlouhý pobyt v autě bez domácí koupelny. Většina se dá le
 
 ### Lékárnička & baterie
 - **Lékárnička:** náplasti (+ na puchýře Compeed na treky), dezinfekce, ibuprofen/paralen, Imodium, rehydratační soli, antihistaminika, léky na nevolnost (trajekt), **osobní léky**.
-- Baterie AA/AAA do čelovky + náhradní.
+- Baterie do lucerny / drobné elektroniky + náhradní.
 - **Kanystr na vodu 5–10 l.**
 
 > 🔧 **Vybavení a povinná výbava** (reflexní vesty ×2, trojúhelník, lékárnička do auta, zatemnění oken, spacáky, čelovka, rychleschnoucí ručníky, matrace, vařič) → viz **[checklist v ROADTRIP-PLAN.md](ROADTRIP-PLAN.md#3-checklist-do-auta-spaní--práce--ev)**.
