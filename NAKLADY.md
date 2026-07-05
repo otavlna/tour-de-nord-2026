@@ -8,10 +8,10 @@ Průběžná dokumentace útraty na **přípravu** cesty (zásoby, vybavení). S
 
 | Kategorie | Kč | ≈ € |
 |---|---:|---:|
-| 🍲 Trvanlivé potraviny (Penny) | ~3 500 | ~140 |
+| 🍲 Potraviny + spotřební (Penny, 2 účtenky) | 3 553 | 142 |
 | 🎣 Rybářská výbava (Decathlon) | 1 245 | 50 |
 | 🎒 Vybavení (Alza) | 621 | 25 |
-| **CELKEM zatím** | **~5 366** | **~215** |
+| **CELKEM zatím** | **~5 419** | **~217** |
 
 ---
 
@@ -40,13 +40,31 @@ Tím je rybářská výbava na makrelu (i případnou tresku) **kompletní** —
 
 > ⏳ **Plynové kartuše** objednány paralelně (Allegro + Alza) — doplním cenu podle toho, co dorazí. Pozor na kompatibilitu typu s kufříkovým vařičem (kazetová s výřezem, ne flašková s tryskou).
 
-## 🍲 Trvanlivé potraviny — Penny (2026-07-04)
+## 🍲 Potraviny + spotřební — Penny (2026-07-04)
 
-| Položka | Cena |
-|---|---:|
-| Nákup trvanlivých zásob (neitemizováno) | ~3 500 Kč |
+Dvě účtenky téhož dne (Penny Bor). **Totály jsou přesné z účtenek**, položky níže jsou čitelný přehled po kategoriích (ne řádek po řádku).
 
-> ⏳ **K doplnění:** až dodáš účtenku (foto / screenshot z appky Moje Penny), rozepíšu položky a zpřesním částku.
+### Účtenka 1 (18:30) — **2 402,60 Kč** · potraviny
+| Kategorie | Položky (výběr) |
+|---|---|
+| Těstoviny/rýže/kuskus | Spagety, Zlaté Esíčka, Tortellini, tortilly (celozr./pšen.), Kuskus, Rýže parboiled, **Ovesné vločky 10× à 12,90** |
+| Omáčky/protlak/kečup | Protlak rajčatový ×5, Protlak koncentrát, Omáčka na těstoviny/Bolognese/Basilico, Kečup jemný + ostrý 1 kg |
+| Koření | Pepř ×víc, paprika, chilli, skořice, kmín, karí, česnek sušený, sůl |
+| Olej | Řepkový olej 1 l |
+| Ořechy/sušené | Arašídy, arašídy pražené, Rozinky Jumbo ×3 |
+| Sladké/snacky | Sušenky slepované kakao, Bebe Brumík, BL Alaska, tyčinky sójové, krém lískooř., krém arašídový, švestková povidla, Masox, sušenky jemné |
+| Nápoje | Mletá káva König, kakao cho-quick, čaj |
+
+### Účtenka 2 (19:14) — **1 150,00 Kč** · spotřební + konzervy
+| Kategorie | Položky (výběr) |
+|---|---|
+| Spotřební/hygiena | **Hasicí přístroj** 269,90, ostřikovač do auta, houbičky, **podpalovač PePo 40 ks**, odpadkové pytle, **zápalky**, **alobal 20 m**, **toaletní papír ×2**, mýdlo, gumové rukavice, zubní pasta Colgate |
+| Konzervy/paštiky | Kukuřice sterilovaná ×víc, Maso chalupář vepřové ×2, **Paštika Májka Hamé ×víc**, hrášek jemný |
+| Ovoce/kapsičky | Hello jablko/meruňka/broskev/jahoda ×víc |
+
+**Penny celkem: 2 402,60 + 1 150,00 = 3 552,60 Kč**
+
+> ℹ️ Řada položek pokrývá i checklisty — hasicí přístroj, PePo, zápalky, alobal, TP, rukavice, ostřikovač (viz [VYBAVA.md](VYBAVA.md) / spotřební v [JIDLO.md](JIDLO.md)).
 
 ---
 
