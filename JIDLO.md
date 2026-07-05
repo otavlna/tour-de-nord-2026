@@ -96,16 +96,18 @@ Cibule, česnek, brambory, mrkev — vydrží týdny, základ chuti. Sušené ho
 
 ## 🔥 Plyn
 
-**Typ: šroubovací kartuše se závitem (EN417), směs isobutan/propan** — resealovatelné, fungují v chladu a **seženeš je po celé Skandinávii** (Biltema, XXL, Clas Ohlson, outdoor; Primus je švédská značka).
-- Spotřeba: ~1 kartuše 230 g na ~3–4 dny vaření pro 2 → za celý trip **~9–12× 230 g**.
-- **Vezmi ~5–6 ks z domova** (Decathlon — levněji + jistá kompatibilita), zbytek **průběžně dokupuj cestou** (ve Skandinávii dostupné, jen dráž).
+**Vařič:** kufříkový (kazetový) na **ležatou butanovou kartuši** (Alza, 265 Kč). Levný, stabilní, dobrý na vaření pro 2 (velký hrnec + pánev na rybu).
+
+**Kartuše: butanové kazetové** (~30–50 Kč/ks) — výrazně levnější než šroubovací.
+- ⚠️ **Musí sedět do kufříkového vařiče** — je to kartuše **s výřezem/drážkou v límci** („cartridge gas", zacvakne a zajistí páčkou). **NE** vysoká butanová flaška s tryskou (jiný hořák) ani šroubovací! Ověř podle návodu vařiče.
+- Spotřeba ~1 kartuše na ~3–4 dny → za trip **~9–12 ks**; ber ~5–6 z domova, dober cestou.
 - Na trajekt kartuše nech v autě, ne do kabiny.
 
-**Vařič:** šroubovací na kartuši — Forclaz MT500 Piezo + stabilizační trojnožka (viz [VYBAVA.md](VYBAVA.md)).
+⚠️ **Butan v chladu slábne** (arktická rána 2–8 °C): kartuši nech přes noc v teple (auto/spacák), vař dopoledne/odpoledne, zacloň vítr. V létě zvládnutelné.
 
-**Správná kartuše:** Decathlon **„Šroubovací plynová kartuše 230 g" (Forclaz, 119 Kč)** — má závit 7/16", sedí na MT500.
-- ✅ **Pozná se podle slova „šroubovací"** v názvu (závit 7/16").
-- ❌ **NE „s ventilem CP 250 / CV470"** (Campingaz bajonet pro Camp Bistro) ani vysoké „flaškové" butanové kartuše z Allegra — nemají závit, nesednou. Pozor: „EN417" v popisu ještě neznamená šroubovací (norma zahrnuje víc typů ventilů)!
+**Dostupnost cestou:** kazetové kartuše koupíš v supermarketech / hobbymarketech / asijských obchodech; ve Skandinávii jsou (Biltema, Clas Ohlson), jen míň univerzální než šroubovací. **Nekupuj v Norsku** (nejdráž).
+
+⚠️ **Bezpečnost:** nikdy nevař v zavřeném autě (CO + požár).
 
 ⚠️ **Bezpečnost:** nikdy nevař v zavřeném autě (CO + požár). U vařiče našroubovaného na kartuši **neobtáčej kartuši těsným větrným krytem** (hrozí přehřátí) — radši zacloň vítr autem/terénem.
 

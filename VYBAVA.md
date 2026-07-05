@@ -20,7 +20,7 @@ Spotřební věci & hygiena → [JIDLO.md](JIDLO.md#-spotřební-věci--hygiena-
 - ℹ️ **Adaptér zásuvek netřeba** — Skandinávie i Pobaltí mají stejné zásuvky (typ C/F) jako ČR
 
 ## 🍳 Kuchyně & voda (nádobí)
-- [ ] **Plynový vařič** — šroubovací na kartuši (**Forclaz MT500 Piezo** ~899 Kč) + **stabilizační trojnožka** na kartuši + šroubovací kartuše 230 g (plyn viz [JIDLO.md](JIDLO.md#-plyn))
+- [x] **Plynový vařič** — kufříkový (kazetový) na ležatou butanovou kartuši (Alza, 265 Kč) ✅ objednáno + butanové kazetové kartuše s výřezem (plyn viz [JIDLO.md](JIDLO.md))
 - [ ] **Hrnec + pánev** (pánev na rybu!) + poklice
 - [ ] Ešusy/misky, hrnky, příbory
 - [ ] Obracečka, naběračka, kuchyňský nůž, prkénko
@@ -42,7 +42,7 @@ Spotřební věci & hygiena → [JIDLO.md](JIDLO.md#-spotřební-věci--hygiena-
 
 ## 🆘 Nouzové přežití (dojde plyn/elektrika a je zima)
 Krajní pojistka pro odlehlé úseky (Laponsko). Sekera sama nestačí — funguje jen s celým balíčkem:
-- [ ] **Malá sekyrka a/nebo skládací pilka** — dřevo na oheň (pilka = bezpečnější, ber jako primární)
+- [x] **Camping sekyra** (Alza, 356 Kč) ✅ objednáno — dřevo na oheň *(a/nebo skládací pilka — bezpečnější na řezání)*
 - [x] **Zapálení: sirky + PePo (tuhý podpalovač)** ✅ máme — na běžný oheň i troud stačí
 - [ ] Do nouzovky přidat: **záložní zapalovač** + sirky zabalit vodotěsně (ZIP); ideálně **ferro křesadlo** (~100 Kč, funguje i mokré/ve větru — pojistka, když sirky selžou)
 - [ ] **Izotermické fólie / nouzový bivak (space blanket)** — teplo nezávislé na ohni, váží nic

@@ -10,7 +10,8 @@ Průběžná dokumentace útraty na **přípravu** cesty (zásoby, vybavení). S
 |---|---:|---:|
 | 🍲 Trvanlivé potraviny (Penny) | ~3 500 | ~140 |
 | 🎣 Rybářská výbava (Decathlon) | 1 245 | 50 |
-| **CELKEM zatím** | **~4 745** | **~190** |
+| 🎒 Vybavení (Alza) | 621 | 25 |
+| **CELKEM zatím** | **~5 366** | **~215** |
 
 ---
 
@@ -28,6 +29,16 @@ Průběžná dokumentace útraty na **přípravu** cesty (zásoby, vybavení). S
 | **Celkem (po slevě)** | | **1 245 Kč** |
 
 Tím je rybářská výbava na makrelu (i případnou tresku) **kompletní** — viz sekce 🎣 v [JIDLO.md](JIDLO.md).
+
+## 🎒 Vybavení — Alza (2026-07-05)
+
+| Položka | Cena |
+|---|---:|
+| Kufříkový (kazetový) plynový vařič — na ležatou butanovou kartuši | 265 Kč |
+| Camping sekyra *(využití i mimo trip)* | 356 Kč |
+| **Celkem** | **621 Kč** |
+
+> ⏳ **Plynové kartuše** objednány paralelně (Allegro + Alza) — doplním cenu podle toho, co dorazí. Pozor na kompatibilitu typu s kufříkovým vařičem (kazetová s výřezem, ne flašková s tryskou).
 
 ## 🍲 Trvanlivé potraviny — Penny (2026-07-04)
 
