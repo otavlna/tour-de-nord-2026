@@ -40,31 +40,79 @@ Tím je rybářská výbava na makrelu (i případnou tresku) **kompletní** —
 
 > ⏳ **Plynové kartuše** objednány paralelně (Allegro + Alza) — doplním cenu podle toho, co dorazí. Pozor na kompatibilitu typu s kufříkovým vařičem (kazetová s výřezem, ne flašková s tryskou).
 
-## 🍲 Potraviny + spotřební — Penny (2026-07-04)
+## 🍲 Potraviny + spotřební — Penny Bor (2026-07-04)
 
-Dvě účtenky téhož dne (Penny Bor). **Totály jsou přesné z účtenek**, položky níže jsou čitelný přehled po kategoriích (ne řádek po řádku).
+Dvě účtenky. **Přečteno z fotek — názvy a jednotkové ceny jsou přesné, totály vytištěné na účtence jsou autoritativní.** Přesné počty kusů u opakovaných levných položek nejsou z (překrývajících se) fotek 100% zaručené — pro perfektní řádky viz digitální účtenku v appce Moje Penny.
 
-### Účtenka 1 (18:30) — **2 402,60 Kč** · potraviny
-| Kategorie | Položky (výběr) |
-|---|---|
-| Těstoviny/rýže/kuskus | Spagety, Zlaté Esíčka, Tortellini, tortilly (celozr./pšen.), Kuskus, Rýže parboiled, **Ovesné vločky 10× à 12,90** |
-| Omáčky/protlak/kečup | Protlak rajčatový ×5, Protlak koncentrát, Omáčka na těstoviny/Bolognese/Basilico, Kečup jemný + ostrý 1 kg |
-| Koření | Pepř ×víc, paprika, chilli, skořice, kmín, karí, česnek sušený, sůl |
-| Olej | Řepkový olej 1 l |
-| Ořechy/sušené | Arašídy, arašídy pražené, Rozinky Jumbo ×3 |
-| Sladké/snacky | Sušenky slepované kakao, Bebe Brumík, BL Alaska, tyčinky sójové, krém lískooř., krém arašídový, švestková povidla, Masox, sušenky jemné |
-| Nápoje | Mletá káva König, kakao cho-quick, čaj |
+### Účtenka 1 (18:30:20) — **2 402,60 Kč**
 
-### Účtenka 2 (19:14) — **1 150,00 Kč** · spotřební + konzervy
-| Kategorie | Položky (výběr) |
-|---|---|
-| Spotřební/hygiena | **Hasicí přístroj** 269,90, ostřikovač do auta, houbičky, **podpalovač PePo 40 ks**, odpadkové pytle, **zápalky**, **alobal 20 m**, **toaletní papír ×2**, mýdlo, gumové rukavice, zubní pasta Colgate |
-| Konzervy/paštiky | Kukuřice sterilovaná ×víc, Maso chalupář vepřové ×2, **Paštika Májka Hamé ×víc**, hrášek jemný |
-| Ovoce/kapsičky | Hello jablko/meruňka/broskev/jahoda ×víc |
+| Položka | Jedn. cena |
+|---|---:|
+| Spagety 500g SF | 13,90 |
+| Zlaté Esíčka 220g (těstoviny) | 29,90 |
+| Tortellini se sýrem / se šunkou 250g | 15,90 |
+| Celozrnná / pšeničná tortilla 6×60g | 27,90 |
+| Kuskus 500g Gustito | 33,90 |
+| Gustito Bulgur 500g | 33,90 |
+| Rýže parboiled 1kg | 24,90 |
+| Ovesné vločky 500g (10 ks = 129,00) | 12,90 |
+| Protlak rajčatový 500g | 17,90 |
+| Protlak rajč. koncentrát 200g | 19,90 |
+| Omáčka na těstoviny 360g | 26,90 |
+| Omáčka na těstoviny 340g | 39,90 |
+| Omáčka Bolognese 420g SF | 34,90 |
+| Omáčka basilico 420g SF | 29,90 |
+| Kečup jemný / ostrý 1kg Gustite | 29,90 |
+| Řepkový olej 1l Penny | 29,90 |
+| Pepř černý mletý 20g Gustito | 6,90 |
+| Paprika sladká 30g / Česnek sušený 30g | 6,90 |
+| Kořeni Karí 20g Gustito | 5,90 |
+| Skořice mletá 30g | 6,90 |
+| Kmín drcený 40g / Chilli mleté 25g | 9,90 / 11,90 |
+| Sůl kamenná s jódem 1kg | 9,90 |
+| Kaiserka speciál 60g (7 ks = 34,30) | 4,90 |
+| Sušenky slepované kakao 500g | 39,90 |
+| Sušenky jemné 130g | 16,90 |
+| Bebe Brumík čokoládový 30g (−5,60 → 7,90) | 13,50 |
+| BL Alaska kakao 18g | 2,90 |
+| Tyčinka sójová 50g Enjoy (−2,00 → 4,90) | 6,90 |
+| Masox 12ks | 16,90 |
+| Rozinky Jumbo 200g | 23,90 |
+| Arašídy pražené solené 500g | 39,90 |
+| Švestková povidla 450g | 39,90 |
+| Krém lískooříškový 400g | 59,90 |
+| Krém arašídový | 79,90 |
+| Mletá káva König 500g | 39,90 |
+| Nápoj kakao cho-quick 500g | 49,90 |
+| Čaj Pigi 37,5g | 14,90 |
+
+### Účtenka 2 (19:14:16) — **1 150,00 Kč**
+
+| Položka | Jedn. cena |
+|---|---:|
+| **Přístroj hasicí práškový 1kg** | 269,90 |
+| Směs do ostřikovačů 5l | 39,90 |
+| Houbičky tvarované 6ks Penny | 14,90 |
+| **Podpalovač PePo 40ks** | 21,90 |
+| Today SG 500ml mix | 24,90 |
+| Odpadkové pytle 20ks/45l (Clina) | 21,90 |
+| **Zápalky bezpečnostní 10ks** | 8,90 |
+| **Alobal 20m Clina** | 34,90 |
+| **Wippy TP heřmánek 4ks** (toaletní papír, ×2) | 22,90 |
+| Toaletní mýdlo Mix 100g Today | 13,90 |
+| Gumové rukavice M | 14,90 |
+| Colgate ZP Trip Act 125ml (zubní pasta) | 34,90 |
+| Citronka (Citronek 200ml, ×2) | 11,90 |
+| Kukuřice sterilovaná 330g (multipack 12×) | 22,90 |
+| Maso chalupář vepřové 280g | 39,90 |
+| Chalupář vepřový s kmínem 280g | 39,90 |
+| Paštika Májka 105g Hamé (multipack, −15,00) | 29,90 |
+| Hrášek jemný 400g Jardin (8× multipack, −64,00) | 22,90 |
+| Hello jablko/broskev/jahoda/meruňka 190g | 11,90 |
 
 **Penny celkem: 2 402,60 + 1 150,00 = 3 552,60 Kč**
 
-> ℹ️ Řada položek pokrývá i checklisty — hasicí přístroj, PePo, zápalky, alobal, TP, rukavice, ostřikovač (viz [VYBAVA.md](VYBAVA.md) / spotřební v [JIDLO.md](JIDLO.md)).
+> ℹ️ Řada položek pokrývá i checklisty — hasicí přístroj, PePo, zápalky, alobal, TP, rukavice, ostřikovač, citronka (viz [VYBAVA.md](VYBAVA.md) / spotřební v [JIDLO.md](JIDLO.md)).
 
 ---
 
