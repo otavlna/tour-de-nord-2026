@@ -51,10 +51,21 @@ Krajní pojistka pro odlehlé úseky (Laponsko). Sekera sama nestačí — fungu
 - ℹ️ **112 funguje všude v EU**; auto = přístřešek. Zákaz ohně se na skutečnou nouzi nevztahuje (jde o život), ale je to až krajní řešení — teplo primárně řeš spacáky + fóliemi.
 
 ## 🚗 Auto — povinná výbava & doklady
-- [ ] **2× reflexní vesta** (ve Skandinávii povinné pro osádku)
-- [ ] Výstražný trojúhelník
-- [ ] Autolékárnička
-- [ ] Hasicí přístroj (doporučeno)
+
+> **Povinná výbava napříč trasou (ověřeno 2026).** Nejpřísnější společný jmenovatel = ber všechno níže. Přehled kdo co vyžaduje:
+> | Výbava | Kde povinné |
+> |---|---|
+> | Výstražný trojúhelník | **všude** (CZ, DE, DK, NO, SE, FI, EE, LV, LT, PL) |
+> | Reflexní vesta | CZ, DE, NO, FI, EE, LV, LT, PL (v DK/SE ne, ale ber) |
+> | Autolékárnička | CZ, DE (norma DIN 13164), LV, LT |
+> | Hasicí přístroj | LT, PL (min. 1 kg, ABC) |
+>
+> ℹ️ **Světla:** potkávací/DRL non-stop celoročně (NO/SE/FI/DK/PL) — Tesla řeší automaticky. **Zimní pneu** se letního termínu netýkají. Náhradní žárovky nikde na trase netřeba.
+
+- [ ] **2× reflexní vesta** (povinné ve většině zemí trasy) — **nech v kabině na dosah, ne v kufru/frunku** (musíš si ji obléct ještě před vystoupením na dálnici)
+- [ ] Výstražný trojúhelník (povinný úplně všude)
+- [ ] Autolékárnička — **hlídej expiraci**; poslouží i jako osobní lékárnička na cestu (viz [JIDLO.md](JIDLO.md#lékárnička--baterie))
+- [x] **Hasicí přístroj** — práškový 1 kg ABC ✅ koupeno (Penny) — povinný v LT + PL
 - [ ] **AutoPASS** — registrace auta (norské mýto/trajekty automaticky + sleva)
 - [ ] Doklady: řidičák, techničák, **zelená karta/pojištění**, rezervace trajektů
 - [ ] **Tesla Mobile Connector + CCS adaptér**, nabíjecí kabely
