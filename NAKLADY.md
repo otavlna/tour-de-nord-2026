@@ -11,7 +11,8 @@ Průběžná dokumentace útraty na **přípravu** cesty (zásoby, vybavení). S
 | 🍲 Potraviny + spotřební (Penny, 2 účtenky) | 3 553 | 142 |
 | 🎣 Rybářská výbava (Decathlon) | 1 245 | 50 |
 | 🎒 Vybavení (Alza) | 621 | 25 |
-| **CELKEM zatím** | **~5 419** | **~217** |
+| 🔥 Plynové kartuše (Allegro, 12 ks) | 300 | 12 |
+| **CELKEM zatím** | **~5 719** | **~229** |
 
 ---
 
@@ -38,7 +39,14 @@ Tím je rybářská výbava na makrelu (i případnou tresku) **kompletní** —
 | Camping sekyra *(využití i mimo trip)* | 356 Kč |
 | **Celkem** | **621 Kč** |
 
-> ⏳ **Plynové kartuše** objednány paralelně (Allegro + Alza) — doplním cenu podle toho, co dorazí. Pozor na kompatibilitu typu s kufříkovým vařičem (kazetová s výřezem, ne flašková s tryskou).
+## 🔥 Plynové kartuše — Allegro (2026-07-09)
+
+| Položka | Ks | Cena |
+|---|---:|---:|
+| Butanové kazetové kartuše (s výřezem, do kufříkového vařiče) | 12 | 300 Kč |
+| **Celkem** | | **300 Kč** (25 Kč/ks) |
+
+> ✅ **12 ks = plyn na celý trip** (spotřeba ~1 kartuše/3–4 dny → ~9–12 ks na 35 dní), cestou už dokupovat netřeba. Kompatibilita ověřena: kazetové s výřezem do kufříkového vařiče (ne flašková s tryskou).
 
 ## 🍲 Potraviny + spotřební — Penny Bor (2026-07-04)
 

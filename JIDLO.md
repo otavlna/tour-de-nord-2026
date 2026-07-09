@@ -100,7 +100,7 @@ Cibule, česnek, brambory, mrkev — vydrží týdny, základ chuti. Sušené ho
 
 **Kartuše: butanové kazetové** (~30–50 Kč/ks) — výrazně levnější než šroubovací.
 - ⚠️ **Musí sedět do kufříkového vařiče** — je to kartuše **s výřezem/drážkou v límci** („cartridge gas", zacvakne a zajistí páčkou). **NE** vysoká butanová flaška s tryskou (jiný hořák) ani šroubovací! Ověř podle návodu vařiče.
-- Spotřeba ~1 kartuše na ~3–4 dny → za trip **~9–12 ks**; ber ~5–6 z domova, dober cestou.
+- Spotřeba ~1 kartuše na ~3–4 dny → za trip **~9–12 ks**. ✅ **Máme 12 ks z domova (Allegro) — pokrývá celý trip, dokupovat cestou netřeba.**
 - Na trajekt kartuše nech v autě, ne do kabiny.
 
 ⚠️ **Butan v chladu slábne** (arktická rána 2–8 °C): kartuši nech přes noc v teple (auto/spacák), vař dopoledne/odpoledne, zacloň vítr. V létě zvládnutelné.

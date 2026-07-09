@@ -20,7 +20,7 @@ Spotřební věci & hygiena → [JIDLO.md](JIDLO.md#-spotřební-věci--hygiena-
 - ℹ️ **Adaptér zásuvek netřeba** — Skandinávie i Pobaltí mají stejné zásuvky (typ C/F) jako ČR
 
 ## 🍳 Kuchyně & voda (nádobí)
-- [x] **Plynový vařič** — kufříkový (kazetový) na ležatou butanovou kartuši (Alza, 265 Kč) ✅ objednáno + butanové kazetové kartuše s výřezem (plyn viz [JIDLO.md](JIDLO.md))
+- [x] **Plynový vařič** — kufříkový (kazetový) na ležatou butanovou kartuši (Alza, 265 Kč) ✅ + **12× butanová kazetová kartuše s výřezem** (Allegro, 300 Kč) ✅ = plyn na celý trip (viz [JIDLO.md](JIDLO.md))
 - [ ] **Hrnec + pánev** (pánev na rybu!) + poklice
 - [ ] Ešusy/misky, hrnky, příbory
 - [ ] Obracečka, naběračka, kuchyňský nůž, prkénko
