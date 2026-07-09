@@ -62,9 +62,9 @@ Krajní pojistka pro odlehlé úseky (Laponsko). Sekera sama nestačí — fungu
 >
 > ℹ️ **Světla:** potkávací/DRL non-stop celoročně (NO/SE/FI/DK/PL) — Tesla řeší automaticky. **Zimní pneu** se letního termínu netýkají. Náhradní žárovky nikde na trase netřeba.
 
-- [ ] **2× reflexní vesta** (povinné ve většině zemí trasy) — **nech v kabině na dosah, ne v kufru/frunku** (musíš si ji obléct ještě před vystoupením na dálnici)
-- [ ] Výstražný trojúhelník (povinný úplně všude)
-- [ ] Autolékárnička — **hlídej expiraci**; poslouží i jako osobní lékárnička na cestu (viz [JIDLO.md](JIDLO.md#lékárnička--baterie))
+- [x] **2× reflexní vesta** ✅ — **nech v kabině na dosah, ne v kufru/frunku** (musíš si ji obléct ještě před vystoupením na dálnici)
+- [x] Výstražný trojúhelník ✅ (povinný úplně všude)
+- [x] Autolékárnička ✅ — **hlídej expiraci**; poslouží i jako osobní lékárnička na cestu (viz [JIDLO.md](JIDLO.md#lékárnička--baterie))
 - [x] **Hasicí přístroj** — práškový 1 kg ABC ✅ koupeno (Penny) — povinný v LT + PL
 - [ ] **AutoPASS** — registrace auta (norské mýto/trajekty automaticky + sleva)
 - [ ] Doklady: řidičák, techničák, **zelená karta/pojištění**, rezervace trajektů
