@@ -4,12 +4,12 @@ Seznam **vybavení** (jednorázové věci, ne spotřeba) na ~35 dní ve dvou, sp
 Spotřební věci & hygiena → [JIDLO.md](JIDLO.md#-spotřební-věci--hygiena-2-lidi-35-dní) · jídlo & vaření → [JIDLO.md](JIDLO.md) · útrata → [NAKLADY.md](NAKLADY.md).
 
 ## 🛏️ Spaní & komfort v autě
-- [ ] **Matrace / karimatka** na sklopenou zadní část M3
-- [ ] **Teplé spacáky** — noci na severu 5–12 °C i v létě
-- [ ] Polštáře (klidně nafukovací)
-- [ ] **Zatemnění oken / sluneční clony** — půlnoční slunce, jinak se nevyspíte
-- [ ] **Sítě proti komárům do oken** — v Laponsku chceš větrat a nepustit komáry dovnitř
-- [ ] Deka
+- [x] **Matrace / karimatka** na sklopenou zadní část M3 ✅
+- [x] **Teplé spacáky** — noci na severu 5–12 °C i v létě ✅
+- [x] Polštáře (klidně nafukovací) ✅
+- [x] **Zatemnění oken / sluneční clony** — půlnoční slunce, jinak se nevyspíte ✅
+- [x] **Sítě proti komárům do oken** — v Laponsku chceš větrat a nepustit komáry dovnitř ✅
+- [x] Deka ✅
 
 ## 🔦 Osvětlení & energie
 - [ ] **Kempová LED lucerna** (světlo na vaření/večer) — hlavní zdroj světla

@@ -162,7 +162,7 @@ Kalkulováno na dlouhý pobyt v autě bez domácí koupelny. Většina se dá le
 ### Ochrana (specifika severu) ⚠️
 | Položka | Množství | Pozn. |
 |---|---|---|
-| **Repelent** (DEET / Icaridin) | 2 + síťky na hlavu | laponské léto = komáři brutál |
+| **Repelent** (DEET / Icaridin) ✅ | 2 + síťky na hlavu | laponské léto = komáři brutál |
 | Krém po štípancích / antihistaminikum | 1 | |
 | Opalovací krém SPF | 1–2 | dlouhé dny + odlesk od vody |
 | Balzám na rty s SPF | 1 | |
