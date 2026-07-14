@@ -9,6 +9,7 @@ Plán letního roadtripu na sever (Skandinávie + Pobaltí) v **Tesle Model 3 Lo
 |---|---|
 | **[ROADTRIP-PLAN.md](ROADTRIP-PLAN.md)** | Přehled: 3 varianty tras, rozpočet, info o nabíjení / spaní / trajektech, checklist |
 | **[ITINERAR.md](ITINERAR.md)** | Vybraná trasa **B** (Fjordy + Lofoty) — kompletní rozpis den po dni (~35 dní) |
+| **[CESTOVNI-DENIK.md](CESTOVNI-DENIK.md)** | 📓 Reálný záznam z cesty — kudy jsme jeli, co viděli, kde spali (den po dni) |
 | **[JIDLO.md](JIDLO.md)** | Zásoby: jídlo & vaření (nákupní seznam trvanlivých z Penny, rotace večeří, plyn, rybolov) + spotřební věci & hygiena |
 | **[VYBAVA.md](VYBAVA.md)** | Vybavení & checklist do auta — spaní, kuchyně, nářadí, povinná výbava, oblečení, elektronika |
 | **[NAKLADY.md](NAKLADY.md)** | Průběžná dokumentace útraty na přípravu (zásoby, vybavení) — kolik už padlo |
