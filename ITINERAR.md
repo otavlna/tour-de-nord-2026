@@ -9,6 +9,8 @@
 - **🚢** = trajekt (auto + EV sleva, rezervovat dopředu)
 - Vzdálenosti orientační. *Start nejlíp ve čt/pá → středy padnou na základny.*
 
+> 📍 **Živé tipy na nadcházející úseky** (co vidět/kde zastavit, doplňováno z cesty) → [úplně dole v tomhle souboru](#-živé-tipy-na-cestu-doplňováno-průběžně-z-cesty).
+
 ---
 
 ## 🇩🇪🇩🇰🇳🇴 TÝDEN 1 — Na sever + Dánsko + jižní Norsko
@@ -114,3 +116,26 @@
 - [ ] Konkrétní park4night spoty (až bude termín startu)
 - [ ] Měny: DK/SE/NO koruny, FI/Pobaltí €; většinou karta všude
 - [ ] Narovnat středy na základny dle data odjezdu
+
+---
+
+# 📍 Živé tipy na cestu (doplňováno průběžně z cesty)
+
+> Konkrétní doporučení na nadcházející úseky — co vidět, kde zastavit, kde levně. Doplňuje se, jak jedeme. *(Co už proběhlo, je v [CESTOVNI-DENIK.md](CESTOVNI-DENIK.md).)*
+
+## 🇸🇪 Úsek: západní pobřeží Švédska (Helsingborg/Domsten → Göteborg, ~200 km po E6)
+
+Nedělat z toho dálniční sprint — pobřeží Hallandu je krásné, 200 km s pár zastávkami = pohodový den.
+
+**Zastávky cestou:**
+- **Kullaberg** (~20 min od Domstenu, poloostrov u Mölle) — útesy, maják, přírodní rezervace; **slušná šance na tuleně a sviňuchy** 🦭
+- **Varberg** (~150 km) ⭐ — středověká **pevnost přímo u moře**, staré lázně Kallbadhuset, mumie „Bocksten Man" v muzeu; nejlepší zastávka na trase
+- **Tylösand u Halmstadu** (~85 km) — jedna z nejslavnějších švédských pláží, na koupačku
+
+**Göteborg (2. největší město Švédska, přístav) — pro budget/přírodní styl:**
+- **Haga** — staré dřevěné domky, kavárny, obří **skořicová buchta** (kanelbulle)
+- **Slottsskogen** — velký park se **ZOO zdarma** (tuleni + tučňáci)
+- 🏝️ **Jižní souostroví (skärgård)** — z přístavu **Saltholmen levným MHD trajektem** na ostrovy bez aut (Styrsö, Brännö, Vrångö): koupání, skály, klid — **top low-cost highlight**
+- **Feskekôrka** — „rybí kostel" (tržnice) · **Liseberg** — zábavní park (placený, jen na adrenalin)
+
+**🛏️ Spaní:** Švédsko = allemansrätten → **spíte zdarma**, spoty v park4night po pobřeží i na souostroví. Placený kemp netřeba.
