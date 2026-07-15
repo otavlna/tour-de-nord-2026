@@ -27,9 +27,14 @@ Reálný záznam trasy: kudy jsme jeli, co jsme viděli a kde jsme spali (na roz
 - **Vikingské muzeum Ladby** (lodní hrob) — Fyn
 - 🛏️ **Nyborg** u pláže
 
-## 🇩🇰 Den 5 — út 14. 7. 2026 · Fyn → ? *(probíhá)*
-- Ráno práce z pláže v **Nyborgu**
-- *Kam dál se rozhoduje — viz tipy níže*
+## 🇩🇰🇸🇪 Den 5 — út 14. 7. 2026 · Kodaň → přes oba mosty do Švédska
+- Ráno práce z pláže v **Nyborgu** (Fyn)
+- **Velký Belt** (most) → Zéland → **Kodaň**
+- **Öresundský most** → **příjezd do Švédska** 🇸🇪 *(oba velké mosty za jeden den)*
+- 🛏️ **free kemp ve vesnici Domsten** (pobřeží Öresundu severně od Helsingborgu) — allemansrätten, spaní zdarma 🎉
+
+## 🇸🇪 Den 6 — st 15. 7. 2026 · Švédsko *(probíhá)* 🗓️ meeting day
+- *První středa = meeting day, píše se za pochodu…*
 
 ---
 
