@@ -1,141 +1,86 @@
-# Itinerář — Varianta B "Fjordy + Lofoty" 🏔️❄️
+# Itinerář — Trasa "Fjordy + Lofoty" 🏔️❄️
 
-**~35 dní · ~7 474 km po silnicích + 2 trajekty · spaní v autě · Tesla M3 LR**
+**Orientačně ~5 týdnů · ~7 500 km · spaní v autě · Tesla M3 LR**
+Průvodce **podle míst, ne podle dní** — jedeme volným tempem, ať tip sedí přímo u svého místa. *(Co už proběhlo → [CESTOVNI-DENIK.md](CESTOVNI-DENIK.md).)*
 
 ### Legenda
-- **⚡** = nabíjení (na severu skoro všude bez starostí — hlídá se spíš cena než dojezd)
-- **🛏️** = spaní (🇳🇴🇸🇪🇫🇮 wild camping LEGÁLNÍ a zdarma — allemansrätten!)
-- **⭐** = highlight · **🟢 ZÁKLADNA** = jistá wifi → sem středu (meeting day)
-- **🚢** = trajekt (auto + EV sleva, rezervovat dopředu)
-- Vzdálenosti orientační. *Start nejlíp ve čt/pá → středy padnou na základny.*
-
-> 📍 **Živé tipy na nadcházející úseky** (co vidět/kde zastavit, doplňováno z cesty) → [úplně dole v tomhle souboru](#-živé-tipy-na-cestu-doplňováno-průběžně-z-cesty).
+- **⚡** nabíjení · **🛏️** spaní (🇳🇴🇸🇪🇫🇮 wild camping zdarma — allemansrätten) · **⭐** highlight
+- **🟢** dobrá **základna** s jistou wifi → **středa = meeting day**, plánuj ji sem
+- **🚗** tip cestou · **🚢** trajekt (volitelný)
 
 ---
 
-## 🇩🇪🇩🇰🇳🇴 TÝDEN 1 — Na sever + Dánsko + jižní Norsko
+## 🇩🇪🇩🇰 Na sever: Německo → Dánsko → Švédsko *(hotovo — viz deník)*
+Úvodní úsek Tachov → Berlín → Hamburk → Dánsko → přes mosty do Švédska. Reálná trasa a zastávky jsou v [CESTOVNI-DENIK.md](CESTOVNI-DENIK.md).
+- 💡 Pozn.: „most Fehmarn" zatím **neexistuje** (tunel až ~2029+) — DE→DK je buď trajekt Puttgarden, nebo all-bridge přes Jutsko. My jeli mosty.
 
-**D1 — Tachov → Berlín** (~350 km) · ⚡ Drážďany/Berlín · 🛏️ park4night okraj Berlína · ⭐ Brandenburská brána večer
+## 🇸🇪 Švédské západní pobřeží → Göteborg
+Pobřeží Hallandu, ~200 km po E6 z Helsingborgu. Nedělat dálniční sprint — s pár zastávkami pohodový den.
+🚗 **cestou:** **Kullaberg** (útesy, maják, šance na **tuleně** 🦭) · **Varberg** ⭐ (středověká pevnost u moře, lázně Kallbadhuset) · **Tylösand** (slavná pláž, koupačka)
 
-**D2 — Berlín → Kodaň** (~440 km, přes most Fehmarn) · ⚡ Hamburk · 🛏️ kemp Kodaň · ⭐ příjezd, Nyhavn
+**🟢 Göteborg** — 2. největší město, přístav
+⚡ ve městě · 🛏️ zdarma po pobřeží/na souostroví (park4night)
+⭐ **Haga** (dřevěné domky, skořicová buchta) · **Slottsskogen** (park + **ZOO zdarma**, tuleni/tučňáci) · 🏝️ **jižní souostroví** MHD trajektem ze **Saltholmenu** (ostrovy bez aut, koupání — **top low-cost**) · **Feskekôrka** (rybí tržnice) · **Liseberg** (zábavní park, placené)
 
-**D3 — 🟢 ZÁKLADNA Kodaň** *(STŘEDA)* · práce, Nyhavn, Christiania, mořská víla, kola všude
+## 🇳🇴 Oslo *(hranice Norsko)*
+~290 km z Göteborgu. ⚡ Oslo · 🛏️ park4night u města
+**🟢 Oslo** — ⭐ Vigelandův park (sochy) · opera (chodí se po střeše) · pevnost Akershus · Holmenkollen (skokanský můstek + výhled)
 
-**D4 — Kodaň → Göteborg** (~310 km, most Öresund — mýto) · ⚡ Malmö · 🛏️ divoko/kemp · ⭐ vstup do Švédska, přístav
+## 🇳🇴 Jižní fjordy: Flåm → Bergen
+**Flåm** (~330 km z Osla) · ⚡ cestou · 🛏️ divoko u fjordu · ⭐ **Flåmská železnice**, **Nærøyfjord** (UNESCO)
+**🟢 Bergen** (~170 km z Flåmu) · ⚡ Bergen · 🛏️ kemp/divoko · ⭐ **Bryggen** (hanzovní nábřeží UNESCO), lanovka **Fløyen**, rybí trh · „město deště"
 
-**D5 — Göteborg → Oslo** (~290 km) — *hranice Norsko* · ⚡ Oslo · 🛏️ park4night u Osla · ⭐ příjezd do fjordové země
+## 🇳🇴 Velké fjordy: Geiranger → Trollstigen → Åndalsnes
+**Geiranger** (~380 km z Bergenu, trajekty přes fjordy + serpentiny) · ⚡ Stryn · 🛏️ divoko nad fjordem · ⭐ **Geirangerfjord** (UNESCO), vodopád Sedm sester
+**Åndalsnes** (~120 km přes **Trollstigen**) · ⚡ Åndalsnes · 🛏️ kemp · ⭐ **Trollstigen** (orlí serpentiny), stěna Trollveggen
 
-**D6 — 🟢 Oslo** · Vigelandův park, opera (chodí se po střeše), Akershus, Holmenkollen
+## 🇳🇴 Trondheim → k polárnímu kruhu
+**🟢 Trondheim** (~290 km z Åndalsnes) · ⚡ · 🛏️ park4night · ⭐ katedrála **Nidaros**, barevné **Bakklandet**, starý most Gamle bybro
+**Mo i Rana** (~450 km) · ⚡ Mo i Rana · 🛏️ divoko · ⭐ krajina řídne, blíží se Arktida
 
-**D7 — Oslo → Flåm** (~330 km) · ⚡ cestou · 🛏️ divoko u fjordu · ⭐ Flåmská železnice, **Nærøyfjord** (UNESCO)
+## ❄️ Polární kruh → Bodø
+**🟢 Bodø** (~230 km přes **polární kruh**) · ⚡ Bodø · 🛏️ kemp · ⭐ **překročení polárního kruhu!** + **Saltstraumen** (nejsilnější mořský vír světa) · brána na Lofoty
 
----
+## 🇳🇴 Lofoty ⭐⭐ — nejhezčí ostrovy Evropy
+**Dostupné po silnici E10 z Narviku — trajekt netřeba** (loď vynecháme kvůli ceně). Kdo chce zkratku: 🚢 Bodø→Moskenes (~3,5 h, v létě rezervovat).
+⚡ Leknes/Svolvær · 🛏️ divoko u pláží
+⭐ **Reine + Hamnøy** (nejfotčenější vesnice Norska) · **Henningsvær** (hřiště nad mořem) · pláž **Kvalvika** · výstup **Reinebringen** · **půlnoční slunce** ve 2 ráno nad fjordem
 
-## 🇳🇴 TÝDEN 2 — Velké fjordy
+## 🇳🇴🇸🇪 Narvik → Abisko → Kiruna (Laponsko)
+**Narvik** (~280 km z Lofot po E10, bez trajektu) · ⚡ Narvik · ⭐ lanovka Narvikfjellet
+**Abisko** (~90 km, *hranice Švédsko*) · ⭐ **Abisko NP**, stezka Kungsleden, Aurora Sky Station
+**🟢 Kiruna** (~100 km) · ⚡ · 🛏️ divoko · ⭐ **Ledový hotel** Jukkasjärvi, obří rudný důl, „stěhující se město"
 
-**D8 — Flåm → Bergen** (~170 km) · ⚡ Bergen · 🛏️ kemp Bergen · ⭐ **Bryggen** (hanzovní nábřeží UNESCO), lanovka Fløyen
+## 🇫🇮 Finská Laponie: Rovaniemi → Oulu *(hranice Finsko)*
+**🟢 Rovaniemi** (~480 km z Kiruny) · ⚡ · 🛏️ kemp · ⭐ **vesnice Santa Clause**, polární kruh podruhé, muzeum **Arktikum**, sobí farma
+**Oulu** (~330 km) · ⚡ Oulu · 🛏️ divoko u jezera · ⭐ finská jezerní krajina, klid
 
-**D9 — 🟢 ZÁKLADNA Bergen** *(STŘEDA)* · práce, rybí trh, „město deště"
+## 🇫🇮 Helsinki
+**🟢 Helsinki** (~400 km z Oulu, dá se dělit) · ⚡ · 🛏️ kemp Rastila · ⭐ katedrála, pevnost **Suomenlinna**, sauna
+- odsud 🚢 Tallinn ~2 h, **když se pojede do Pobaltí** (viz níže)
 
-**D10 — Bergen → Geiranger** (~380 km, trajekty + serpentiny) · ⚡ Stryn · 🛏️ divoko nad fjordem · ⭐ **Geirangerfjord** (UNESCO), vodopád Sedm sester
+## 🇪🇪🇱🇻🇱🇹 Pobaltí: Tallinn → Riga → Vilnius
+🚢 **Helsinki → Tallinn** (~2 h, *hranice Estonsko*) — jediné spojení do Pobaltí (most neexistuje)
+**Tallinn** · ⚡ · 🛏️ kemp · ⭐ středověké **staré město** (UNESCO)
+**🟢 Riga** (~310 km, *hranice Lotyšsko*) · ⭐ secesní Riga, staré město
+**Vilnius** (~300 km, *hranice Litva*) · ⭐ **Hora křížů** (u Šiauliai cestou), barokní Vilnius
 
-**D11 — Geiranger → Trollstigen → Åndalsnes** (~120 km) · ⚡ Åndalsnes · 🛏️ kemp · ⭐ **Trollstigen** (orlí serpentiny), stěna Trollveggen
-
-**D12 — Åndalsnes → Trondheim** (~290 km) · ⚡ Trondheim · 🛏️ park4night · ⭐ katedrála Nidaros, barevné Bakklandet
-
-**D13 — 🟢 Trondheim** · práce/odpočinek, starý most Gamle bybro
-
-**D14 — Trondheim → Mo i Rana** (~450 km) · ⚡ Mo i Rana · 🛏️ divoko · ⭐ blíží se polární kruh, krajina řídne
-
----
-
-## ❄️ TÝDEN 3 — Polární kruh + Lofoty
-
-**D15 — Mo i Rana → polární kruh → Bodø** (~230 km) · ⚡ Bodø · 🛏️ kemp Bodø · ⭐ **překročení polárního kruhu!** + Saltstraumen (nejsilnější mořský vír světa)
-
-**D16 — 🟢 ZÁKLADNA Bodø** *(STŘEDA)* · práce, rezervace trajektu na Lofoty
-
-**D17 — Bodø →🚢→ Moskenes (Lofoty)** (~3,5 h plavba) · ⚡ Leknes · 🛏️ divoko u pláže · ⭐ **Reine + Hamnøy** — nejfotčenější vesnice Norska
-
-**D18 — Lofoty: Reine → Svolvær** (~130 km po E10) · ⚡ Leknes/Svolvær · 🛏️ divoko · ⭐ **Henningsvær** (hřiště nad mořem), bílé pláže Kvalvika
-
-**D19 — Lofoty (hike + půlnoční slunce)** · ⚡ · 🛏️ divoko · ⭐ výstup **Reinebringen**, slunce ve 2 ráno nad fjordem
-
-**D20 — Lofoty → Narvik** (~280 km, E10 pevninou — bez trajektu) · ⚡ Narvik · 🛏️ divoko · ⭐ lanovka Narvikfjellet
-
-**D21 — Narvik → Abisko (SE)** (~90 km) — *hranice Švédsko* · ⚡ Kiruna · 🛏️ kemp Abisko · ⭐ **Abisko NP**, stezka Kungsleden, Aurora Sky Station
-
----
-
-## 🇸🇪🇫🇮 TÝDEN 4 — Laponie (Švédsko → Finsko)
-
-**D22 — Abisko → Kiruna** (~100 km) · ⚡ Kiruna · 🛏️ divoko · ⭐ **Ledový hotel** Jukkasjärvi, největší žel. rudný důl, stěhující se město
-
-**D23 — 🟢 ZÁKLADNA Kiruna** *(STŘEDA)* · práce, laponská divočina
-
-**D24 — Kiruna → Rovaniemi (FI)** (~480 km) — *hranice Finsko* · ⚡ Rovaniemi · 🛏️ kemp · ⭐ **vesnice Santa Clause**, polární kruh podruhé
-
-**D25 — 🟢 Rovaniemi** · práce, muzeum Arktikum, sobí farma
-
-**D26 — Rovaniemi → jih k Oulu** (~330 km) · ⚡ Oulu · 🛏️ divoko u jezera · ⭐ finská jezerní krajina, klid
-
-**D27 — Oulu → Helsinki** (~400 km, dá se dělit) · ⚡ Helsinki · 🛏️ kemp Rastila · ⭐ příjezd do hl. města
-
-**D28 — 🟢 Helsinki** · katedrála, pevnost Suomenlinna, sauna, rezervace trajektu
-
----
-
-## 🇪🇪🇱🇻🇱🇹🇵🇱 TÝDEN 5 — Pobaltí → Polsko → domů
-
-**D29 — Helsinki →🚢→ Tallinn** (~2 h) — *hranice Estonsko* · ⚡ Tallinn · 🛏️ kemp · ⭐ středověké **staré město** (UNESCO)
-
-**D30 — 🟢 ZÁKLADNA: Tallinn → Riga** (~310 km) *(STŘEDA)* — *hranice Lotyšsko* · ⚡ Riga · ⭐ secesní Riga, staré město
-
-**D31 — Riga → Vilnius** (~300 km) — *hranice Litva* · ⚡ Vilnius · 🛏️ · ⭐ **Hora křížů** (u Šiauliai cestou), barokní Vilnius
-
-**D32 — Vilnius → Varšava** (~470 km) — *hranice Polsko* · ⚡ Varšava · 🛏️ · ⭐ staré město (znovupostavené), historie
-
-**D33 — Varšava → Krakov** (~300 km) · ⚡ Krakov · 🛏️ kemp · ⭐ Wawel, Rynek (největší náměstí Evropy)
-
-**D34 — 🟢 Krakov** · práce/odpočinek, příp. solný důl Wieliczka
-
-**D35 — Krakov → Tachov** (~600 km, dá se dělit přes ČR) · ⚡ Ostrava/Praha · 🏁 **domů — uzavření smyčky**
+## 🇵🇱 Polsko → domů
+**Varšava** (~470 km z Vilniusu, *hranice Polsko*) · ⭐ staré město (znovupostavené)
+**🟢 Krakov** (~300 km) · 🛏️ kemp · ⭐ **Wawel**, **Rynek** (největší náměstí Evropy), příp. solný důl **Wieliczka**
+**Krakov → Tachov** (~600 km, dá se dělit přes ČR) · ⚡ Ostrava/Praha · 🏁 **domů — uzavření smyčky**
 
 ---
 
 ## 📌 Pár „dej si pozor"
-1. **Trajekty rezervovat dopředu** — Bodø–Moskenes (Lofoty) v létě plný; Helsinki–Tallinn (Tallink/Eckerö).
-2. **Norské mýto/tunely** — registruj auto do **AutoPASS** (EV sleva, jinak ti faktury chodí domů).
-3. **Půlnoční slunce** (D15–D24) — bez zatemnění oken se nevyspíš.
-4. **Komáři v Laponii** — repelent + sítě povinné.
-5. **Nabíjení:** všude OK; jediný řidší kus je vnitrozemí finské Laponie (hlavní silnice ale v pohodě).
+1. **Trajekty** — Lofoty jdou po E10 bez lodi; Helsinki–Tallinn (když do Pobaltí) v létě rezervovat.
+2. **Norské mýto/tunely** — registruj auto do **AutoPASS** (EV sleva, jinak faktury domů).
+3. **Půlnoční slunce** (za polárním kruhem) — bez zatemnění oken se nevyspíš.
+4. **Komáři v Laponii** — repelent + sítě.
+5. **Nabíjení:** všude OK; jen vnitrozemí finské Laponie řidší (hlavní silnice v pohodě).
 
 ## 🔧 Co doladit dál
-- [ ] Ověřit nabíjení v ABRP (spíš pro cenu/plánování zastávek než dojezd)
-- [ ] Rezervace obou trajektů + AutoPASS registrace
-- [ ] Konkrétní park4night spoty (až bude termín startu)
-- [ ] Měny: DK/SE/NO koruny, FI/Pobaltí €; většinou karta všude
-- [ ] Narovnat středy na základny dle data odjezdu
-
----
-
-# 📍 Živé tipy na cestu (doplňováno průběžně z cesty)
-
-> Konkrétní doporučení na nadcházející úseky — co vidět, kde zastavit, kde levně. Doplňuje se, jak jedeme. *(Co už proběhlo, je v [CESTOVNI-DENIK.md](CESTOVNI-DENIK.md).)*
-
-## 🇸🇪 Úsek: západní pobřeží Švédska (Helsingborg/Domsten → Göteborg, ~200 km po E6)
-
-Nedělat z toho dálniční sprint — pobřeží Hallandu je krásné, 200 km s pár zastávkami = pohodový den.
-
-**Zastávky cestou:**
-- **Kullaberg** (~20 min od Domstenu, poloostrov u Mölle) — útesy, maják, přírodní rezervace; **slušná šance na tuleně a sviňuchy** 🦭
-- **Varberg** (~150 km) ⭐ — středověká **pevnost přímo u moře**, staré lázně Kallbadhuset, mumie „Bocksten Man" v muzeu; nejlepší zastávka na trase
-- **Tylösand u Halmstadu** (~85 km) — jedna z nejslavnějších švédských pláží, na koupačku
-
-**Göteborg (2. největší město Švédska, přístav) — pro budget/přírodní styl:**
-- **Haga** — staré dřevěné domky, kavárny, obří **skořicová buchta** (kanelbulle)
-- **Slottsskogen** — velký park se **ZOO zdarma** (tuleni + tučňáci)
-- 🏝️ **Jižní souostroví (skärgård)** — z přístavu **Saltholmen levným MHD trajektem** na ostrovy bez aut (Styrsö, Brännö, Vrångö): koupání, skály, klid — **top low-cost highlight**
-- **Feskekôrka** — „rybí kostel" (tržnice) · **Liseberg** — zábavní park (placený, jen na adrenalin)
-
-**🛏️ Spaní:** Švédsko = allemansrätten → **spíte zdarma**, spoty v park4night po pobřeží i na souostroví. Placený kemp netřeba.
+- [ ] AutoPASS registrace před Norskem
+- [ ] eSIM / data na meetingy
+- [ ] Rozhodnout Pobaltí (trajekt Tallinn) vs. návrat jinudy
+- [ ] Konkrétní park4night spoty průběžně
