@@ -22,6 +22,24 @@ Cíl: navézt **co nejvíc trvanlivých kalorií z domova** (ideálně v Penny v
 
 **8 večeří v rotaci:** ① těstoviny + rajčatová (passata+protlak+bujón) + tuňák · ② rýže + guláš z konzervy · ③ těstoviny/rýže + fazole v tomatě · ④ lečo + rýže + klobása · ⑤ cizrna/čočka kari (kokosové mléko + kari) + rýže · ⑥ instant bramborová kaše + hrášek + luncheon meat · ⑦ kuskus + kukuřice + fazole (i studený jako salát) · ⑧ **asijské nudle** (nudle + sójovka + sriracha + arašídy + zbytek zeleniny) nebo instantní polévka.
 
+## 🍳 Co uvařit z reálných zásob (co máme koupené)
+
+*Sestaveno z účtenek v [NAKLADY.md](NAKLADY.md). Chybí čerstvé — dokup viz [Kde dokupovat](#-kde-dokupovat-čerstvé-od-nejlevnějšího).*
+
+**Večeře:**
+- **Špagety + hotová omáčka** (9× špagety, 8 sklenic omáčky) → dohoď masox, sušený česnek, chilli; přidej kukuřici/hrášek nebo konzervu chalupář
+- **Rajčatové sugo z protlaku** — protlak + olej + masox + česnek + paprika + chilli (+ špetka cukru) na těstoviny
+- **Tortellini** (6 bal.) — povařit, přelít omáčkou nebo jen olej + česnek + pepř
+- **Kari rýže** — rýže + kari + masox + kukuřice + hrášek (+ konzerva masa)
+- **Kuskus/bulgur salát** — zalít vroucí vodou, zamíchat kukuřici, hrášek, olej, citronku, koření
+- **Tortilla wrapy** — tortilla + paštika/maso + kukuřice + kečup (sladká: nutela + rozinky)
+
+**Snídaně:** ovesné vločky (10 bal.) + voda + rozinky + skořice, osladit kakaem cho-quick / povidly.
+
+**🐟 Bonus:** čerstvá ryba v alobalu — olej, sůl, pepř, citronka + rýže/kuskus (máš prut i nůž!).
+
+**🛒 Dokoupit levně (Švédsko):** cibule, česnek, vejce, sýr, máslo, čerstvý chleba (+ volitelně kokosové mléko na pořádné kari, tuňák).
+
 ## 🛒 Nákupní seznam — trvanlivé (na ~35 dní, 2 lidi)
 
 ### Sacharidová základna
@@ -142,6 +160,14 @@ V Modelu 3 (kufr ~425 l + frunk ~88 l) je to ~pětina prostoru. **Konzervy (nejt
 - **Pobaltí:** Rimi, Maxima — levné.
 - **Finsko / Švédsko:** Lidl (nejlevnější v regionu), jinak K-Market/ICA/Coop.
 - **Norsko (nejdražší):** Kiwi, Rema 1000, Coop Extra — nejlevnější řetězce; nakupuj minimum, spoléhej na zásoby + rybu.
+
+### 💰 Skandinávie — kde je nejlevněji (potraviny)
+
+**🇸🇪 Švédsko < 🇩🇰 Dánsko (~+10 %) < 🇳🇴 Norsko (~+20–30 %, maso/sýr/alkohol i víc).**
+
+- ⭐ **Nalož se ve Švédsku PŘED Norskem** — hlavně u **Strömstad / Nordby Shopping Center** (u hranice Svinesund, přímo na trase Göteborg→Oslo): největší nákupák Skandinávie, existuje pro levné nákupy Norů.
+- **Alkohol:** ve Švédsku **Systembolaget** (pivo do 3,5 % i v supermarketu); v Norsku **Vinmonopolet**, brutálně drahé → kup ve Švédsku / cestou.
+- Nejlevnější řetězce: 🇸🇪 **Willys, Lidl** · 🇩🇰 **Netto, Rema 1000, Lidl** · 🇳🇴 **Kiwi, Rema 1000**.
 
 ## 🧻 Spotřební věci & hygiena (2 lidi, ~35 dní)
 
