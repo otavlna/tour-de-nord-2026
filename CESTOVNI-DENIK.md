@@ -33,8 +33,10 @@ Reálný záznam trasy: kudy jsme jeli, co jsme viděli a kde jsme spali (na roz
 - **Öresundský most** → **příjezd do Švédska** 🇸🇪 *(oba velké mosty za jeden den)*
 - 🛏️ **free kemp ve vesnici Domsten** (pobřeží Öresundu severně od Helsingborgu) — allemansrätten, spaní zdarma 🎉
 
-## 🇸🇪 Den 6 — st 15. 7. 2026 · Švédsko *(probíhá)* 🗓️ meeting day
-- *První středa = meeting day, píše se za pochodu…*
+## 🇸🇪 Den 6 — st 15. 7. 2026 · Odpočinkový den v Domstenu 🗓️ meeting day
+První pořádný den v klidu. Zůstali jsme v tom **free kempu v Domstenu**, kde jsme spali už z úterý na středu — tak se nám tu zalíbilo, že jsme se rozhodli přespat i další noc. Žádné kilometry, žádný spěch.
+
+Rozdělali jsme **stan**, uvařili **těstoviny** na vařiči a užívali si první opravdové zastavení na břehu Öresundu. Prý tu bývají **tuleni** — vyhlíželi jsme je, ale ani jeden se neukázal. 🦭❌ (třeba příště)
 
 ---
 
