@@ -26,7 +26,8 @@ Rozděleno na úseky (zhruba po týdnech), ale **bez pevných dní** — jedeme 
   - ⭐ **Slottsskogen** — park + **ZOO zdarma** (tuleni, tučňáci)
   - 🏝️ **jižní souostroví** trajektem ze Saltholmenu — koupání, klid, **top low-cost**
   - **Feskekôrka** (rybí tržnice) · **Liseberg** (zábavní park, placené)
-  - ⚡ ve městě · 🛏️ zdarma po pobřeží
+  - 🅿️ **Parkování:** centrum drahé → **park & ride z jihu** (Lindome/Kållered na E6) + vlak ~15 min do centra; nebo free ulice ve vnějších čtvrtích (Kortedala/Bergsjön) + tram. Na souostroví **nejezdi autem k Saltholmenu** (v létě plno) → **tram 11**. Mýto (trängselskatt) se v červenci/o víkendu neplatí.
+  - ⚡ ve městě · 🛏️ zdarma po pobřeží / na okraji (ne v centru)
 
 **Do Norska:**
 - **🟢 Oslo** *(~290 km, hranice Norsko)*
