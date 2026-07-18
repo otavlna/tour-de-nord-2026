@@ -29,10 +29,19 @@ Rozděleno na úseky (zhruba po týdnech), ale **bez pevných dní** — jedeme 
   - 🅿️ **Parkování:** centrum drahé → **park & ride z jihu** (Lindome/Kållered na E6) + vlak ~15 min do centra; nebo free ulice ve vnějších čtvrtích (Kortedala/Bergsjön) + tram. Na souostroví **nejezdi autem k Saltholmenu** (v létě plno) → **tram 11**. Mýto (trängselskatt) se v červenci/o víkendu neplatí.
   - ⚡ ve městě · 🛏️ zdarma po pobřeží / na okraji (ne v centru)
 
+**Hranice Svinesund → Oslo** *(~110 km po E6, klidně na 1–2 dny — cestou je toho dost):*
+- 🚗 **Svinesund** — hned za hranicí velký oblouk mostu, vyhlídka/parkoviště → první fotka Norska
+- 🚗 **Halden** ⭐ — pevnost **Fredriksten** nad městem (jedna z nejzachovalejších v Norsku, výhled do Švédska); areál zdarma, dá se nahoře parkovat/spát
+- 🚗 **Fredrikstad** ⭐ — **Gamlebyen**, nejzachovalejší opevněné město severní Evropy (valy, dřevěné domky); přívoz přes řeku je součást MHD a **zdarma** → top zastávka úseku
+- 🚗 **Sarpsborg** — vodopád **Sarpsfossen** (podle průtoku největší v Evropě), kousek od E6
+- 🚗 **Son / Moss** — přímořská městečka na koupačku a klid
+- 🚗 **Drøbak** ⭐ — kouzelné dřevěné přímořské město těsně před Oslem; pevnost **Oscarsborg** (1940 odsud potopili křižník Blücher → stihla se evakuovat vláda) · celoroční „vánoční dům" **Julehuset** · 🛏️ hezké spaní u fjordu tady, ne v centru Osla
+
 **Do Norska:**
-- **🟢 Oslo** *(~290 km, hranice Norsko)*
+- **🟢 Oslo** *(~290 km z Göteborgu, hranice Norsko)*
   - ⭐ Vigelandův park (sochy) · opera (chodí se po střeše) · pevnost Akershus · Holmenkollen
-  - ⚡ Oslo · 🛏️ park4night u města
+  - 🅿️ **Parkování drahé + tuhé mýtné zóny** kolem města (s AutoPASS + EV sleva, ale počítej s tím) → nech auto na kraji a jeď MHD/metrem
+  - ⚡ Oslo · 🛏️ park4night u města / raději u fjordu (Drøbak), ne v centru
 - **Flåm** *(~330 km z Osla)* ⭐ **Flåmská železnice**, **Nærøyfjord** (UNESCO) · 🛏️ divoko u fjordu
 
 ## 🇳🇴 Úsek 2 — Velké fjordy
