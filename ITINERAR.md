@@ -42,12 +42,19 @@ Rozděleno na úseky (zhruba po týdnech), ale **bez pevných dní** — jedeme 
   - ⭐ Vigelandův park (sochy) · opera (chodí se po střeše) · pevnost Akershus · Holmenkollen
   - 🅿️ **Parkování drahé + tuhé mýtné zóny** kolem města (s AutoPASS + EV sleva, ale počítej s tím) → nech auto na kraji a jeď MHD/metrem
   - ⚡ Oslo · 🛏️ park4night u města / raději u fjordu (Drøbak), ne v centru
-- **Oslo → Bergen po Rv7 (Hardangervidda)** *(~470 km, na ~2 dny — turistická klasika, bez trajektů):*
-  - 🚗 **Geilo** — slavné lyžařské městečko, brána na plošinu
-  - 🚗 **Hardangervidda** ⭐ největší náhorní plošina Evropy — divocí sobi, ledovec Hardangerjøkulen *(natáčela se tu planeta Hoth ze Star Wars)*
-  - 🚗 **Måbødalen → Vøringsfossen** ⭐ nejslavnější vodopád Norska (182 m), nová lávka + plošiny · ⚡ nabíječka na parkovišti · Hardangervidda Nature Centre v Eidfjordu
-  - 🚗 **Hardangerbrua** (nejdelší visutý most Norska) nebo přes **Norheimsund** → **Steinsdalsfossen** (projdeš *za* vodopádem)
-  - 💡 **Flåm + Nærøyfjord** (Norway in a Nutshell) sem přímo nesedí → přidáme ho na **cestě na sever z Bergenu** (viz níže)
+- **Oslo/Tyrifjord → Bergen po Rv7 (Hardangervidda)** — turistická klasika, bez trajektů. Jeď od bodu k bodu:
+  1. 🚗 **Sundvollen – Kongens Utsikt** (přes Kleivstua) — vyhlídka přímo na Tyrifjorden; skoro nahoru autem + krátká procházka *(~30 min)*
+  2. 🛒⚡ **Hønefoss** *(~20 min od jezera)* — poslední velký nákup + levné nabití; tady odbočka na **Rv7 na západ**
+  3. 🚗 **Nesbyen** *(~1 h)* — starý skanzen Hallingdal, protáhnout nohy
+  4. ⚡ **Gol** *(~20 min)* — křižovatka, servis, nabíječka
+  5. 🛏️⚡ **Geilo** *(~40 min)* — lyžařské městečko, brána na plošinu; **dobij naplno**, dál je pusto · 🛏️ přespat tady nebo kousek výš na plošině
+  6. 🚗 **Dyranut / Hardangervidda** *(~40 min)* ⭐ nejvyšší část Rv7 — plošina, divocí sobi, ledovec Hardangerjøkulen *(Hoth ze Star Wars)*
+  7. 🚗 **Vøringsfossen** *(~35 min, sjezd Måbødalenem)* ⭐ zaparkuj na **Fossatromma** — nová lávka + plošiny, ⚡ nabíječka, WC · ideálně ráno, než najedou busy
+  8. 🚗 **Eidfjord** *(~10 min)* — vesnice na fjordu, Hardangervidda Nature Centre; **tady začíná Hardangerfjord**
+  9. 🚗 **Hardangerbrua** *(~25 min)* — nejdelší visutý most Norska, přejezd fjordu (mýto AutoPASS)
+  10. 💧 **Norheimsund – Steinsdalsfossen** *(~45 min)* — projdeš *za* vodopádem
+  11. 🏁 **Bergen** *(~1 h)* — cíl trasy
+  - 💡 **Flåm + Nærøyfjord** (Norway in a Nutshell) sem přímo nesedí → přidáme ho na **cestě na sever z Bergenu** (viz Úsek 2)
 
 ## 🇳🇴 Úsek 2 — Velké fjordy
 
