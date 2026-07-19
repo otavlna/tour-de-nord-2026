@@ -66,7 +66,11 @@ Rozděleno na úseky (zhruba po týdnech), ale **bez pevných dní** — jedeme 
   - ⚡ Bergen · 🛏️ kemp/divoko
 - **Bergen → Geiranger cestou (Norway in a Nutshell)** *(~380 km, trajekty + serpentiny):*
   - 🚗 **Flåm** ⭐ Flåmská železnice · loď/kajak po **Nærøyfjordu** (UNESCO, nejužší fjord Norska) · vikinská vesnice Njardarheimr v Gudvangenu · ⛪ **Undredal** — nejmenší dřevěný kostel v provozu v severní Evropě, kousek od Flåmu
-  - 💡 chuť na víc **stavkirke**? **Borgund** ⭐ (nejzachovalejší v Norsku, ~1180) je odsud malá zajížďka na východ od Lærdalu
+  - ⛪ **STAVKIRKE — tady je jich nejvíc slavných v celém Norsku** (vnitřní Sognefjord, kolem Lærdalu/Sogndalu):
+    - **Borgund** ⭐ ~1180, **nejzachovalejší v Norsku**, „vzor" pro ostatní — malá zajížďka východně od Lærdalu (z Flåmu jezdí i denní minibus)
+    - **Urnes** ⭐ UNESCO, **nejstarší** (~1130), proslulé řezby — přes Solvorn + krátký trajekt do Ornes
+    - **Kaupanger** (~1140, jeden z největších) a **Hopperstad** ve Viku (~1130) — po cestě přes trajekty na Sognefjordu
+  - 💡 kdybys na sever jel přes **Sognefjell** (nejvyšší průsmyk sev. Evropy) místo rovnou na Geiranger, přibereš i velký **Lom stavkirke**
   - 🚗 **Stegastein** ⭐ vyhlídka 650 m nad Aurlandsfjordem · **Lærdalský tunel** 24,5 km (nejdelší silniční tunel světa)
 - **Geiranger** ⭐ **Geirangerfjord** (UNESCO), vodopád Sedm sester · 🛏️ divoko nad fjordem
 - **Åndalsnes** *(~120 km přes Trollstigen)* ⭐ **Trollstigen** (orlí serpentiny), stěna Trollveggen · 🛏️ kemp
