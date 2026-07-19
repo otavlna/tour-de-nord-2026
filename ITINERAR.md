@@ -42,7 +42,11 @@ Rozděleno na úseky (zhruba po týdnech), ale **bez pevných dní** — jedeme 
   - ⭐ Vigelandův park (sochy) · opera (chodí se po střeše) · pevnost Akershus · Holmenkollen
   - 🅿️ **Parkování drahé + tuhé mýtné zóny** kolem města (s AutoPASS + EV sleva, ale počítej s tím) → nech auto na kraji a jeď MHD/metrem
   - ⚡ Oslo · 🛏️ park4night u města / raději u fjordu (Drøbak), ne v centru
-- **Flåm** *(~330 km z Osla)* ⭐ **Flåmská železnice**, **Nærøyfjord** (UNESCO) · 🛏️ divoko u fjordu
+- **Oslo → Flåm cestou po E16** *(~330 km):*
+  - 🚗 **Borgund — stavkirke** ⭐ jeden z nejzachovalejších dřevěných kostelů Norska, přímo u E16 před Lærdalem
+  - 🚗 **Lærdalstunnelen** — nejdelší silniční tunel světa (24,5 km), modře nasvícené jeskyně uvnitř
+  - 🚗 **Stegastein** ⭐ vyhlídka 650 m nad Aurlandsfjordem *(zajížďka po „Snøvegen" místo tunelu — jen za jasna)*
+- **Flåm** ⭐ **Flåmská železnice**, **Nærøyfjord** (UNESCO) · 🛏️ divoko u fjordu
 
 ## 🇳🇴 Úsek 2 — Velké fjordy
 
