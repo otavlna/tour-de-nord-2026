@@ -42,18 +42,23 @@ Rozděleno na úseky (zhruba po týdnech), ale **bez pevných dní** — jedeme 
   - ⭐ Vigelandův park (sochy) · opera (chodí se po střeše) · pevnost Akershus · Holmenkollen
   - 🅿️ **Parkování drahé + tuhé mýtné zóny** kolem města (s AutoPASS + EV sleva, ale počítej s tím) → nech auto na kraji a jeď MHD/metrem
   - ⚡ Oslo · 🛏️ park4night u města / raději u fjordu (Drøbak), ne v centru
-- **Oslo → Flåm cestou po E16** *(~330 km):*
-  - 🚗 **Borgund — stavkirke** ⭐ jeden z nejzachovalejších dřevěných kostelů Norska, přímo u E16 před Lærdalem
-  - 🚗 **Lærdalstunnelen** — nejdelší silniční tunel světa (24,5 km), modře nasvícené jeskyně uvnitř
-  - 🚗 **Stegastein** ⭐ vyhlídka 650 m nad Aurlandsfjordem *(zajížďka po „Snøvegen" místo tunelu — jen za jasna)*
-- **Flåm** ⭐ **Flåmská železnice**, **Nærøyfjord** (UNESCO) · 🛏️ divoko u fjordu
+- **Oslo → Bergen po Rv7 (Hardangervidda)** *(~470 km, na ~2 dny — turistická klasika, bez trajektů):*
+  - 🚗 **Geilo** — slavné lyžařské městečko, brána na plošinu
+  - 🚗 **Hardangervidda** ⭐ největší náhorní plošina Evropy — divocí sobi, ledovec Hardangerjøkulen *(natáčela se tu planeta Hoth ze Star Wars)*
+  - 🚗 **Måbødalen → Vøringsfossen** ⭐ nejslavnější vodopád Norska (182 m), nová lávka + plošiny · ⚡ nabíječka na parkovišti · Hardangervidda Nature Centre v Eidfjordu
+  - 🚗 **Hardangerbrua** (nejdelší visutý most Norska) nebo přes **Norheimsund** → **Steinsdalsfossen** (projdeš *za* vodopádem)
+  - 💡 **Flåm + Nærøyfjord** (Norway in a Nutshell) sem přímo nesedí → přidáme ho na **cestě na sever z Bergenu** (viz níže)
 
 ## 🇳🇴 Úsek 2 — Velké fjordy
 
-- **🟢 Bergen** *(~170 km z Flåmu)*
-  - ⭐ **Bryggen** (hanzovní nábřeží UNESCO) · lanovka **Fløyen** · rybí trh · „město deště"
+- **🟢 Bergen** *(cíl trasy Rv7 z Osla, ~470 km)*
+  - ⭐ **Bryggen** (hanzovní nábřeží UNESCO) · lanovka **Fløyen** (nebo **Ulriken**) · rybí trh · „město deště"
+  - 🎖️ **WW2:** muzeum **„Shetland bus"** v **Telavågu** (vesnice, kterou nacisti 1942 srovnali se zemí) · pevnost **Fjell** (největší německá pobřežní pevnost) · **Theta Museum** (utajená odbojová radiostanice na Bryggenu)
   - ⚡ Bergen · 🛏️ kemp/divoko
-- **Geiranger** *(~380 km, trajekty + serpentiny)* ⭐ **Geirangerfjord** (UNESCO), vodopád Sedm sester · 🛏️ divoko nad fjordem
+- **Bergen → Geiranger cestou (Norway in a Nutshell)** *(~380 km, trajekty + serpentiny):*
+  - 🚗 **Flåm** ⭐ Flåmská železnice · loď/kajak po **Nærøyfjordu** (UNESCO, nejužší fjord Norska) · vikinská vesnice Njardarheimr v Gudvangenu
+  - 🚗 **Stegastein** ⭐ vyhlídka 650 m nad Aurlandsfjordem · **Lærdalský tunel** 24,5 km (nejdelší silniční tunel světa)
+- **Geiranger** ⭐ **Geirangerfjord** (UNESCO), vodopád Sedm sester · 🛏️ divoko nad fjordem
 - **Åndalsnes** *(~120 km přes Trollstigen)* ⭐ **Trollstigen** (orlí serpentiny), stěna Trollveggen · 🛏️ kemp
 - **🟢 Trondheim** *(~290 km)* ⭐ katedrála **Nidaros**, barevné **Bakklandet**, starý most Gamle bybro
 - **Mo i Rana** *(~450 km)* — krajina řídne, blíží se Arktida · 🛏️ divoko
