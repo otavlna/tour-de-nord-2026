@@ -45,15 +45,17 @@ Rozděleno na úseky (zhruba po týdnech), ale **bez pevných dní** — jedeme 
 - **Oslo/Tyrifjord → Bergen po Rv7 (Hardangervidda)** — turistická klasika, bez trajektů. Jeď od bodu k bodu:
   1. 🚗 **Sundvollen – Kongens Utsikt** (přes Kleivstua) — vyhlídka přímo na Tyrifjorden; skoro nahoru autem + krátká procházka *(~30 min)*
   2. 🛒⚡ **Hønefoss** *(~20 min od jezera)* — poslední velký nákup + levné nabití; tady odbočka na **Rv7 na západ**
-  3. 🚗 **Nesbyen** *(~1 h)* — starý skanzen Hallingdal, protáhnout nohy
-  4. ⚡ **Gol** *(~20 min)* — křižovatka, servis, nabíječka
-  5. 🛏️⚡ **Geilo** *(~40 min)* — lyžařské městečko, brána na plošinu; **dobij naplno**, dál je pusto · 🛏️ přespat tady nebo kousek výš na plošině
-  6. 🚗 **Dyranut / Hardangervidda** *(~40 min)* ⭐ nejvyšší část Rv7 — plošina, divocí sobi, ledovec Hardangerjøkulen *(Hoth ze Star Wars)*
-  7. 🚗 **Vøringsfossen** *(~35 min, sjezd Måbødalenem)* ⭐ zaparkuj na **Fossatromma** — nová lávka + plošiny, ⚡ nabíječka, WC · ideálně ráno, než najedou busy
-  8. 🚗 **Eidfjord** *(~10 min)* — vesnice na fjordu, Hardangervidda Nature Centre; **tady začíná Hardangerfjord**
-  9. 🚗 **Hardangerbrua** *(~25 min)* — nejdelší visutý most Norska, přejezd fjordu (mýto AutoPASS)
-  10. 💧 **Norheimsund – Steinsdalsfossen** *(~45 min)* — projdeš *za* vodopádem
-  11. 🏁 **Bergen** *(~1 h)* — cíl trasy
+  3. 🐻 **Podél jezera Krøderen → Flå** *(~45 min)* — Rv7 vede údolím Hallingdal podél jezera; ve **Flå** je **Bjørneparken** (medvědi, vlci, rysi, losi) — ideální rozbití jízdy, hlavně po obědě
+  4. 🚗 **Nesbyen** *(~30 min)* — starý skanzen Hallingdal (jeden z nejstarších v Norsku) · kousek dál **Gardnos** — meteoritický kráter
+  5. ⛪⚡ **Gol** *(~20 min)* — kopie **Gol stavkirke** v parku Gordarike; křižovatka, servis, nabíječka
+  6. ⛪ **Torpo – stavkirke** *(~25 min, mezi Golem a Geilem)* ⭐ **jediný dochovaný dřevěný kostel Hallingdalu** (1192), nejstarší stavba v údolí, unikátní středověké malby uvnitř · otevřeno cca čer–srp 10–18, hnědé cedule od silnice
+  7. 🛏️⚡ **Geilo** *(~20 min)* — lyžařské městečko, brána na plošinu; **dobij naplno**, dál je pusto · 🛏️ přespat tady nebo kousek výš na plošině
+  8. 🚗 **Dyranut / Hardangervidda** *(~40 min)* ⭐ nejvyšší část Rv7 — plošina, divocí sobi, ledovec Hardangerjøkulen *(Hoth ze Star Wars)*
+  9. 🚗 **Vøringsfossen** *(~35 min, sjezd Måbødalenem)* ⭐ zaparkuj na **Fossatromma** — nová lávka + plošiny, ⚡ nabíječka, WC · ideálně ráno, než najedou busy
+  10. 🚗 **Eidfjord** *(~10 min)* — vesnice na fjordu, Hardangervidda Nature Centre; **tady začíná Hardangerfjord**
+  11. 🚗 **Hardangerbrua** *(~25 min)* — nejdelší visutý most Norska, přejezd fjordu (mýto AutoPASS)
+  12. 💧 **Norheimsund – Steinsdalsfossen** *(~45 min)* — projdeš *za* vodopádem
+  13. 🏁 **Bergen** *(~1 h)* — cíl trasy
   - 💡 **Flåm + Nærøyfjord** (Norway in a Nutshell) sem přímo nesedí → přidáme ho na **cestě na sever z Bergenu** (viz Úsek 2)
 
 ## 🇳🇴 Úsek 2 — Velké fjordy
@@ -63,7 +65,8 @@ Rozděleno na úseky (zhruba po týdnech), ale **bez pevných dní** — jedeme 
   - 🎖️ **WW2:** muzeum **„Shetland bus"** v **Telavågu** (vesnice, kterou nacisti 1942 srovnali se zemí) · pevnost **Fjell** (největší německá pobřežní pevnost) · **Theta Museum** (utajená odbojová radiostanice na Bryggenu)
   - ⚡ Bergen · 🛏️ kemp/divoko
 - **Bergen → Geiranger cestou (Norway in a Nutshell)** *(~380 km, trajekty + serpentiny):*
-  - 🚗 **Flåm** ⭐ Flåmská železnice · loď/kajak po **Nærøyfjordu** (UNESCO, nejužší fjord Norska) · vikinská vesnice Njardarheimr v Gudvangenu
+  - 🚗 **Flåm** ⭐ Flåmská železnice · loď/kajak po **Nærøyfjordu** (UNESCO, nejužší fjord Norska) · vikinská vesnice Njardarheimr v Gudvangenu · ⛪ **Undredal** — nejmenší dřevěný kostel v provozu v severní Evropě, kousek od Flåmu
+  - 💡 chuť na víc **stavkirke**? **Borgund** ⭐ (nejzachovalejší v Norsku, ~1180) je odsud malá zajížďka na východ od Lærdalu
   - 🚗 **Stegastein** ⭐ vyhlídka 650 m nad Aurlandsfjordem · **Lærdalský tunel** 24,5 km (nejdelší silniční tunel světa)
 - **Geiranger** ⭐ **Geirangerfjord** (UNESCO), vodopád Sedm sester · 🛏️ divoko nad fjordem
 - **Åndalsnes** *(~120 km přes Trollstigen)* ⭐ **Trollstigen** (orlí serpentiny), stěna Trollveggen · 🛏️ kemp
