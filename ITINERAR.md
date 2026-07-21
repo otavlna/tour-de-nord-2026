@@ -64,14 +64,17 @@ Rozděleno na úseky (zhruba po týdnech), ale **bez pevných dní** — jedeme 
   - ⭐ **Bryggen** (hanzovní nábřeží UNESCO) · lanovka **Fløyen** (nebo **Ulriken**) · rybí trh · „město deště"
   - 🎖️ **WW2:** muzeum **„Shetland bus"** v **Telavågu** (vesnice, kterou nacisti 1942 srovnali se zemí) · pevnost **Fjell** (největší německá pobřežní pevnost) · **Theta Museum** (utajená odbojová radiostanice na Bryggenu)
   - ⚡ Bergen · 🛏️ kemp/divoko
-- **Bergen → Geiranger cestou (Norway in a Nutshell)** *(~380 km, trajekty + serpentiny):*
-  - 🚗 **Flåm** ⭐ Flåmská železnice · loď/kajak po **Nærøyfjordu** (UNESCO, nejužší fjord Norska) · vikinská vesnice Njardarheimr v Gudvangenu · ⛪ **Undredal** — nejmenší dřevěný kostel v provozu v severní Evropě, kousek od Flåmu
-  - ⛪ **STAVKIRKE — tady je jich nejvíc slavných v celém Norsku** (vnitřní Sognefjord, kolem Lærdalu/Sogndalu):
-    - **Borgund** ⭐ ~1180, **nejzachovalejší v Norsku**, „vzor" pro ostatní — malá zajížďka východně od Lærdalu (z Flåmu jezdí i denní minibus)
-    - **Urnes** ⭐ UNESCO, **nejstarší** (~1130), proslulé řezby — přes Solvorn + krátký trajekt do Ornes
-    - **Kaupanger** (~1140, jeden z největších) a **Hopperstad** ve Viku (~1130) — po cestě přes trajekty na Sognefjordu
-  - 💡 kdybys na sever jel přes **Sognefjell** (nejvyšší průsmyk sev. Evropy) místo rovnou na Geiranger, přibereš i velký **Lom stavkirke**
-  - 🚗 **Stegastein** ⭐ vyhlídka 650 m nad Aurlandsfjordem · **Lærdalský tunel** 24,5 km (nejdelší silniční tunel světa)
+- **Bergen → Geiranger** — Norway in a Nutshell + trs stavkirek. Bod po bodu:
+  1. 🎖️ **(volitelně, ~45 min JZ) Telavåg** — muzeum „Shetland bus", pokud jste WW2 zastávku ještě nedali; jinak rovnou na východ
+  2. 💧 **Tvindefossen** *(~1,5 h po E16 na Voss)* — vodopád u silnice těsně před Voss
+  3. 🛏️⚡ **Voss** — adventure městečko, gondola, kostel 1277; nákup + nabít — dobrý první anchor
+  4. 🚗 **Stalheim / Stalheimskleiva** *(~30 min)* — 13 serpentin (dnes pěšky), vyhlídka na Nærøydalen
+  5. ⭐ **Gudvangen — Nærøyfjord** *(~15 min)* — loď/kajak po nejužším fjordu Norska (UNESCO); vikinská vesnice Njardarheimr · 💧 Kjelfossen
+  6. ⭐🚡 **Flåm** *(~25 min tunelem)* — Flåmská železnice · ⛪ **Undredal** kousek stranou (nejmenší dřevěný kostel v provozu v sev. Evropě)
+  7. ⭐ **Stegastein** *(~30 min nad Aurlandem)* — vyhlídka 650 m nad Aurlandsfjordem
+  8. ⛪ **Lærdal + Borgund** *(Lærdalský tunel 24,5 km, nebo přes Stegastein-Snøvegen)* — **Borgund** ⭐ nejzachovalejší stavkirke Norska (~1180), kousek na východ od Lærdalu
+  9. ⛪ **Sognefjordský trs stavkirek** (přes fjordové trajekty): **Urnes** ⭐ (UNESCO, nejstarší, přes Solvorn+trajekt) · **Kaupanger** (jeden z největších) · příp. **Hopperstad** ve Viku
+  10. ⭐ **Sognefjell → Lom** — **nejvyšší průsmyk severní Evropy**; velký ⛪ **Lom stavkirke** *(alternativa k přímé cestě na Geiranger)* → pak **Geiranger** (níže)
 - **Geiranger** ⭐ **Geirangerfjord** (UNESCO), vodopád Sedm sester · 🛏️ divoko nad fjordem
 - **Åndalsnes** *(~120 km přes Trollstigen)* ⭐ **Trollstigen** (orlí serpentiny), stěna Trollveggen · 🛏️ kemp
 - **🟢 Trondheim** *(~290 km)* ⭐ katedrála **Nidaros**, barevné **Bakklandet**, starý most Gamle bybro
