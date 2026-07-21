@@ -66,8 +66,8 @@ Rozděleno na úseky (zhruba po týdnech), ale **bez pevných dní** — jedeme 
   - ⚡ Bergen · 🛏️ kemp/divoko
 - **Bergen → Geiranger** — Norway in a Nutshell + trs stavkirek. Bod po bodu:
   1. 🎖️ **(volitelně, ~45 min JZ) Telavåg** — muzeum „Shetland bus", pokud jste WW2 zastávku ještě nedali; jinak rovnou na východ
-  2. 💧 **Tvindefossen** *(~1,5 h po E16 na Voss)* — vodopád u silnice těsně před Voss
-  3. 🛏️⚡ **Voss** — adventure městečko, gondola, kostel 1277; nákup + nabít — dobrý první anchor
+  2. 🛏️⚡ **Voss** *(~1,5 h po E16 z Bergenu)* — adventure městečko, gondola, kostel 1277; nákup + nabít — dobrý první anchor *(cestou z Bergenu nic velkého, jen fjordové vyhlídky, příp. pletárna Dale of Norway ve vsi Dale)*
+  3. 💧 **Tvindefossen** *(~12 km za Vossem, směr Gudvangen)* — vodopád rovnou u silnice
   4. 🚗 **Stalheim / Stalheimskleiva** *(~30 min)* — 13 serpentin (dnes pěšky), vyhlídka na Nærøydalen
   5. ⭐ **Gudvangen — Nærøyfjord** *(~15 min)* — loď/kajak po nejužším fjordu Norska (UNESCO); vikinská vesnice Njardarheimr · 💧 Kjelfossen
   6. ⭐🚡 **Flåm** *(~25 min tunelem)* — Flåmská železnice · ⛪ **Undredal** kousek stranou (nejmenší dřevěný kostel v provozu v sev. Evropě)
