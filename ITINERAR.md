@@ -75,21 +75,66 @@ Rozděleno na úseky (zhruba po týdnech), ale **bez pevných dní** — jedeme 
   8. ⛪ **Lærdal + Borgund** *(Lærdalský tunel 24,5 km, nebo přes Stegastein-Snøvegen)* — **Borgund** ⭐ nejzachovalejší stavkirke Norska (~1180), kousek na východ od Lærdalu
   9. ⛪ **Sognefjordský trs stavkirek** (přes fjordové trajekty): **Urnes** ⭐ (UNESCO, nejstarší, přes Solvorn+trajekt) · **Kaupanger** (jeden z největších) · příp. **Hopperstad** ve Viku
   10. ⭐ **Sognefjell → Lom** — **nejvyšší průsmyk severní Evropy**; velký ⛪ **Lom stavkirke** *(alternativa k přímé cestě na Geiranger)* → pak **Geiranger** (níže)
-- **Geiranger** ⭐ **Geirangerfjord** (UNESCO), vodopád Sedm sester · 🛏️ divoko nad fjordem
-- **Åndalsnes** *(~120 km přes Trollstigen)* ⭐ **Trollstigen** (orlí serpentiny), stěna Trollveggen · 🛏️ kemp
-- **🟢 Trondheim** *(~290 km)* ⭐ katedrála **Nidaros**, barevné **Bakklandet**, starý most Gamle bybro
-- **Mo i Rana** *(~450 km)* — krajina řídne, blíží se Arktida · 🛏️ divoko
+- **Geiranger** ⭐ **Geirangerfjord** (UNESCO), vodopád Sedm sester · 🛏️ divoko nad fjordem · ⚡ fast charger u Fjordsenteru (dobij před Trollstigenem — mezitím je EV pusto)
+- **Geiranger → Åndalsnes po Nasjonal turistveg (Fv63)** — jen ~85 km, ale atrakce na atrakci → **klidně celý den**. Bod po bodu:
+  1. 🚗 **Flydalsjuvet** *(~5 min z Geirangeru)* ⭐ pohlednicová vyhlídka na fjord a vesnici; velké parko, oblíbené na park4night (dojeď brzy, večer plno)
+  2. 🚗 **(volitelná odbočka) Dalsnibba – Geiranger Skywalk** *(~45 min tam-zpět, slepá odbočka na JIH)* ⭐ nejvyšší silniční vyhlídka Evropy (1500 m), skleněná plošina · **placené mýto ~330–350 NOK** · **jen za jasna** (v mlze nula) → jinak vynech
+  3. 🚗 **Ørnesvingen – Orlí cesta (Ørnevegen)** *(~15 min, přes Geiranger a serpentiny na sever)* ⭐ nejlepší pohled na vodopád **Sedm sester** a farmu Knivsflå
+  4. 🚢 **Trajekt Eidsdal → Linge** *(~30 min sjezd k Eidsdalu)* — Fjord1, **každých ~30 min**, plavba 13 min, ~140 NOK/auto; bez rezervace, platí se na místě *(pozor: trajekt je až Eidsdal→Linge, ne z Geirangeru)*
+  5. 💧 **Gudbrandsjuvet** *(~25 min, přes Valldal)* — dramatická úzká soutěska + moderní ocelové lávky; zdarma, krátká procházka
+  6. ⭐⭐ **Trollstigen** *(~20 min)* — legendárních **11 serpentin**, plošiny 200 m nad vodopádem Stigfossen, návštěvnické centrum · **pro 2026 otevřeno (od 27. 4.)**, zdarma · dojeď plošiny, nejen projeď zatáčky · ráno/večer míň busů · při vydatném dešti krátké uzavírky (kamení) → mrkni ráno na stav
+  7. 🚗 **Trollveggen** *(~20 min)* ⭐ nejvyšší svislá stěna Evropy (~1100 m), meka BASE jumperů; parko + WC hned u E136
+  8. 🛏️⚡ **Åndalsnes** *(~15 min)* — **Rampestreken** (ocelová plošina 537 m nad fjordem, výstup ~1,5 h po sherpských schodech) nebo lanovka **Romsdalsgondolen**; náročná hřebenovka **Romsdalseggen** · **Tesla SC 16×250 kW 24/7** → dobij naplno, je to logická základna · 🛏️ park4night ve městě i okolí (respektuj noční zákazy stání)
+- **Åndalsnes → Trondheim — dvě varianty:**
+  - 🌊 **(A) pobřežní přes Atlantic Road — doporučeno za pěkna** *(přidá ~2,5–4 h a ~130–180 km oproti přímé, prakticky celý den navíc, ale je to highlight úseku)*. Bod po bodu:
+    1. 🚢 **Trajekt Åfarnes → Sølsnes** *(~45 min k Åfarnes)* — Fjord1, ~15 min, bez rezervace
+    2. 🚗 **Molde + vyhlídka Varden** *(~40 min)* ⭐ „město růží", z Vardenu (407 m) panorama **222 štítů** · **jen za jasna** · ⚡ nabíječky ve městě
+    3. 🎖️ **Bud + pevnost Ergan** *(~40 min po Fv664)* ⭐ rybářská vesnice na Hustadvice; německá pobřežní pevnost z WW2 (tunely, děla, historie zajatců); muzeum ~23. 6.–10. 8. 11–15, jinak venkovní areál volně
+    4. 🌉 **Atlantic Road (Atlanterhavsveien)** *(~30–40 min)* ⭐⭐ **highlight úseku** — 8,3 km skákání po ostrovech, ikonický most **Storseisundet**; zdarma, zastávky Eldhusøya + Askevågen · nejlepší za dramatického počasí, v mlze slabota · ráno/večer míň lidí
+    5. ⛪ **Kvernes stavkirke (Averøy)** *(~25 min)* — jediný „postmedieval" stavkirke Norska (1631–33) u fjordu; ~7. 6.–7. 9. 11–17
+    6. 🛒⚡ **Kristiansund** *(~20 min podmořským Atlantic Ocean Tunnelem, mýto ~139 NOK)* — ostrovní město, hlavní město sušené tresky (klippfisk); nákup + nabít
+    7. 🚢 **Trajekt Kanestraum → Halsa** *(~1 h k přístavu)* — E39, ~20 min, EV jízdné ~57 NOK
+    8. 🚗 **Orkanger** *(~1,5–2 h, podél masivu Trollheimen)* — praktická pauza + ⚡ před Trondheimem
+    9. 🏁 **Trondheim** *(~40 min)*
+  - ⚡ **(B) přímá vnitrozemní — rychlá, bez trajektů** *(~4,5 h)*: E136 údolím **Romsdalen** (řeka Rauma, Trollveggen) → **Dombås** → E6 přes **Dovrefjell** (pižmoni!) → **Oppdal** → Trondheim · dobré nabíječky cestou · **volba za špatného počasí**, kdy pobřeží nemá cenu
+- **🟢 Trondheim** — ⭐ katedrála **Nidaros** (nejsevernější středověká katedrála, cíl poutí) · barevné **Bakklandet** · červený most **Gamle bybro** („brána štěstí") · pevnost **Kristiansten** nad městem (nejlepší panorama, areál zdarma) · **Tesla SC Haakon VIIs gate 20×250 kW 24/7** · 🛏️ pro klidnou noc radši fjordový/lesní odpočívák za městem + ráno dojet dovnitř (allemannsretten neplatí pro auta → jen legální parko, hlídej cedule)
+- **Trondheim → Mo i Rana po E6** *(~450 km, reálně 6,5–7,5 h čisté jízdy → rozděl na 2 dny, spaní kolem Mosjøenu)*. Bod po bodu:
+  1. 🚗 **Hell (Stjørdal)** *(~35 min, hned za letištěm Værnes)* — vtipná cedule nádraží „Hell" + „Gods-expedition" → povinná fotka; jinak rychlovka
+  2. ⚔️ **Stiklestad (přes Verdal)** *(~1 h, odbočka ~5 km)* ⭐ místo bitvy 1030, kde padl **sv. Olav** (klíč ke christianizaci Norska); velké kulturní centrum + skanzen · konec července slavná **hra o sv. Olavovi** (kolem 29. 7. — táhne davy, ověř termín)
+  3. ⚡ **Steinkjer** *(~30 min)* — poválečně přestavěné město, muzeum Egge (vikinský dvorec) · **Tesla SC 16×250 kW → dobij před klidnějším severem**
+  4. ⛪ **Snåsa + jezero Snåsavatnet** *(~40–50 min, E6 vede podél jezera)* ⭐ centrum jihosámské kultury — muzeum **Saemien Sijte** (nová dřevěná stavba, Muzeum roku 2026) · 🛏️ břeh Snåsavatnetu má hezké odpočívárny → dobrý kandidát na nocleh
+  5. ⚡ **Grong** *(~40 min)* — poslední pořádné servisní město před lesní pustinou; losos na řece Namsen · **fast charger → dobij, ať je úsek Namsskogan/Majavatn v pohodě**
+  6. 🚗 **Namsskogan / Majavatn** *(~1–1,5 h)* — nejprázdnější lesní úsek, tranzit; **Namsskogan Familiepark** (severská zvířata) pro rozbití jízdy · **na EV se tu nespoléhej**
+  7. 🚗 **(velká volitelná odbočka) Torghatten / Brønnøysund** *(~110+ km jedním směrem od E6, prakticky celý den)* ⭐ hora s **dírou skrz** (160 m tunel, projdeš) — jen když stavíš pobřežní den (líp jako součást Kystriksveien Fv17, ne tam-a-zpět z E6)
+  8. 💧 **Trofors + Laksforsen** *(~45 min + 15 min)* ⭐ mohutný lososový vodopád (17 m) hned u E6, plošina + slézt na skály, restaurace s výhledem · 2. nejnavštěvovanější atrakce Nordlandu, v létě i lososi skáčou
+  9. 🛏️⚡ **Mosjøen** *(~35–40 min)* ⭐ nejstarší město Helgelandu — **Sjøgata**, nejdelší souvislá řada dřevěných domů/skladišť v sev. Norsku (kavárny, galerie) · nad městem **Øyfjellet** + „nejdelší schodiště světa" Helgelandstrappa · **logická půlka a nocleh**; 2× Tesla SC + IONITY
+  10. 🎖️ **Korgen / Blodveien** *(~1 h)* — dramatičtější terén (Korgfjellet, Okstindan); **Blodveien** = silnice stavěná zajatci za WW2, glaciál Okstindan pro zájemce
+  11. ⚡ **Mo i Rana** *(~45 min)* — 3. největší město sev. Norska, brána k polárnímu kruhu/Svartisenu · **Tesla SC 20×250 kW 24/7 (od 2025) → dobij pro polární úsek**
 
 ## ❄️ Úsek 3 — Polární kruh + Lofoty
 
-- **🟢 Bodø** *(~230 km přes polární kruh)*
-  - ⭐ **překročení polárního kruhu!** + **Saltstraumen** (nejsilnější mořský vír světa)
-  - brána na Lofoty · ⚡ Bodø · 🛏️ kemp
-- **Lofoty** ⭐⭐ — nejhezčí ostrovy Evropy
-  - 🚗 **po silnici E10 z Narviku — trajekt netřeba** (loď vynecháme kvůli ceně); zkratka: 🚢 Bodø→Moskenes (~3,5 h, v létě rezervovat)
-  - ⭐ **Reine + Hamnøy** (nejfotčenější vesnice Norska)
-  - ⭐ **Henningsvær** (hřiště nad mořem) · pláž **Kvalvika** · výstup **Reinebringen**
-  - ⭐ **půlnoční slunce** ve 2 ráno nad fjordem · 🛏️ divoko u pláží
+- **Mo i Rana → Bodø po E6** *(~225 km, ~3 h čisté jízdy, přes polární kruh)*. Bod po bodu:
+  1. ⭐ **Polarsirkelsenteret – Polární kruh** *(~50 min / 80 km na sever, plošina Saltfjellet)* — **překročení polárního kruhu (66°33')!** UFO budova, obchod, arktické bistro, kameny a válečné památníky · sezóna V–X, v létě denně 8–22 · **nabíječka tu není → dobij v Mo i Rana předem**; nejvyšší a nejexponovanější kus E6, počasí se mění rychle (i sníh v létě)
+  2. 🚗 **(velká odbočka, ne na E6!) Svartisen – rameno Engabreen** *(z Fv17/Kystriksveien, prakticky celý den navíc)* ⭐ 2. největší ledovec Norska sestupuje skoro k moři; auto do **Holandsviky** → loď „Isprins" přes fjord (~10–15 min) → pěšky/kolo ~3 km k čelu · loď cca kon. V–zač. IX · **jen když stavíš pobřežní den** (ověř jízdní řád tilsvartisen.no)
+  3. 🌊 **Saltstraumen** *(~30 min před Bodø, ~33 km od centra)* ⭐ **nejsilnější mořský vír světa** — až 400 mil. m³ vody rychlostí ~37 km/h, víry do 10 m · **načasování je vše**: proud vrcholí 4× denně (~2 h po přílivu/odlivu), silný kolem novu/úplňku, slabý za nípu → **mrkni na denní rozpis na visitbodo.com** a tref okno špičky (±1 h)
+  4. **🟢 Bodø** *(~30 min)* — **Evropské hlavní město kultury 2024** (první za polárním kruhem), brána na Lofoty
+    - ⭐ vyhlídka **Keiservarden** (sherpská stezka, vrchol 366 m, ~1,5–2 h okruh, za jasna panorama „stěny" Lofot; v červenci půlnoční zlaté světlo) · Stormen, Nordnorsk Kunstmuseum, letecké muzeum, obchodní stanice Kjerringøy
+    - ⚡ **spolehlivá nabíjecí základna (Tesla SC + CCS) → nabij naplno, na Lofotech je to řidší** · 🛏️ Bodøsjøen Camping / bobil parkoviště; blízko trajektu na brzký odjezd
+- **Bodø → Lofoty:**
+  - 🚢 **Trajekt Bodø → Moskenes** *(doporučeno na čas)* — Torghatten Nord, **~3,5 h**; **EV auto ~424 NOK** (sleva), pasažéři zdarma · rezervace není povinná, ale ve špičce (~18. 5.–6. 9.) se dopředu prodá jen ~50 % → **rezervuj brzy** (torghatten-nord.no / entur.no), přijeď s předstihem
+  - 🚗 **nebo objezd E6 → Narvik → E10** *(~6–8 h+, bez sázky na trajekt, dobré nabíjení, umožní přidat Vesterålen/Andøyu)* → ideál: dovnitř jedním, ven druhým způsobem
+- **Lofoty** ⭐⭐ — nejhezčí ostrovy Evropy. Od jihu (Å/Moskenes) na sever, E10 je Nasjonal turistveg *(Å → Svolvær ~130 km / 2,5 h bez zastávek)*:
+  1. 🚗 **Å i Lofoten** — vesnice na konci silnice, muzeum tresky, červené rorbuer; rychlá zastávka
+  2. ⭐ **Reine + Hamnøy (+ Sakrisøy)** *(~20 min)* — pohlednicové srdce Lofot; **Hamnøy** = nejslavnější záběr rorbuer pod štíty (foť z mostu), **Reine** opakovaně nejkrásnější vesnice Norska · **parkování v červenci našponované → jeď brzy/pozdě**
+  3. 🥾 **Reinebringen** ⭐ ikonická vyhlídka (448 m) po **sherpských schodech (1978 stupňů)**, ~1,5–2 h okruh, strmé a „vzdušné" · jen v létě (VI–IX) · ověř stav (občas zavřeno kvůli údržbě schodů)
+  4. 🏖️ **Kvalvika (+ vrchol Ryten)** — schovaná pláž pěšky od **Fredvangu** (~1–1,5 h) · parko u školy Fredvang (má i letní ⚡ + vodu) · Ryten (543 m) pro pohled na pláž shora
+  5. 🏖️ **Ramberg / Flakstad** — bílé arktické pláže s tyrkysovou vodou hned u E10; rychlá koupačka (studená!)
+  6. ⛪ **Nusfjord** *(~30 min odbočka)* — jedna z nejzachovalejších rybářských vesnic Norska (možný vstup/parkovné)
+  7. ⭐ **Henningsvær** — „Benátky Lofot" přes ostrůvky a mosty, slavné **fotbalové hřiště nad mořem** · parkuj radši venku a dojdi
+  8. 🛏️⚡ **Svolvær** — hlavní město a logistický uzel · **Tesla SC ~16×250 kW 24/7 → nejsilnější nabíjení na Lofotech, dobij tu**
+  9. ⭐ **Trollfjorden (loď ze Svolværu)** — dramaticky úzký fjord jen z lodi; RIB safari za orly (~2 h) / plavba (~3–4,5 h), obv. odjezd ~10:30 · rezervuj v létě
+  - 🐋 **(volitelná odbočka) Andøya / Andenes** — nejspolehlivější velrybí safari pevninského Norska (**vorvani celou sezónu**, šance na kosatky); ~3–4 h, mnoho operátorů dá lístek zdarma znovu, když se velryba neukáže · ale je to den+ navíc na sever → dává smysl hlavně při **objezdu přes Narvik**
+  - ⭐ **půlnoční slunce** — v červenci slunce nezapadá → **nutné zatemnění oken** (i střešního skla M3), jinak se nevyspíš; zato túry ve 22–00 h jdou v nejlepším světle a bez davů · 🛏️ **Lofoty jsou přísnější než zbytek Norska** — v hotspotech (Reine, Hamnøy, Kvalvika, Uttakleiv, Haukland) zákazové cedule + pokuty → používej oficiální kempy/bobil spoty, respektuj značení
 - **Narvik** *(~280 km z Lofot po E10)* ⭐ lanovka Narvikfjellet
 - **Abisko** *(~90 km, hranice Švédsko)* ⭐ **Abisko NP**, stezka Kungsleden, Aurora Sky Station · 🛏️ kemp
 
