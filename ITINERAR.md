@@ -157,6 +157,39 @@ Rozděleno na úseky (zhruba po týdnech), ale **bez pevných dní** — jedeme 
 
 ---
 
+## 🗓️ Orientační rozpad na dny (odsud na sever — z Gudvangen na Lofoty)
+*Jedeme volně, tohle je jen odhad tempa. Rozpětí = svižně / pohodově. Reálně **~11–14 dní** z Gudvangen k Reine.*
+
+**Zbytek Úseku 2 (Gudvangen → Geiranger) — ~3 dny:**
+- **D1:** Gudvangen → Flåm (železnice) → **Stegastein** → 🛏️ nad Aurlandem/u Lærdalu
+- **D2:** Lærdal → **Borgund** → Sognefjordský trs stavkirek (Urnes/Kaupanger) → 🛏️ u Sognefjordu
+- **D3:** **Sognefjell → Lom** (stavkirke) → Geiranger → 🛏️ Grotli / Vinje Camping
+
+**Geiranger → Lofoty — ~8–11 dní:**
+- **D4:** Geiranger → **Åndalsnes** (Flydalsjuvet, Ørnesvingen, trajekt, Gudbrandsjuvet, **Trollstigen**) — celý den → 🛏️ Trollveggen
+- **D5(–6):** Åndalsnes → Trondheim — **pobřežní** (Atlantic Road + Molde/Bud, 🛏️ u mostu, dojezd D6) **nebo přímá** (½ dne + Trondheim odpoledne)
+- **D6–7:** **Trondheim** prohlídka (½ dne) → start na sever → 🛏️ Vegset/Snåsavatnet
+- **D7–8:** → Snåsa (sámské muzeum) → Grong → **Laksforsen** → **Mosjøen** 🛏️
+- **D8–9:** Mosjøen → Mo i Rana → **polární kruh** → **Saltstraumen** (tref špičku!) → **Bodø** 🛏️ (trajekt ráno)
+- **D9–10:** trajekt **Bodø → Moskenes** (~3,5 h) → jižní Lofoty → 🛏️ Moskenes
+- **D10–13:** **Lofoty** — Reinebringen, Kvalvika, Nusfjord, Henningsvær, Svolvær, Trollfjord lodí
+- *(+1–2 dny volitelně: Svartisen, Torghatten, nebo Andøya na velryby)*
+
+## 🛏️ Živé tipy — noclehy (spoty ověřené k severní trase)
+*Klíč: v Norsku v autě spíš podle **parkovacích cedulí**, ne podle práva na volný pohyb (to je jen pro stany). „Overnatting/Parkering forbudt" platí i pro Teslu. Appky: **park4night** + **EasyPark**.*
+
+- **Åndalsnes:** 🆓 **Trollveggen Besøkssenter** (E136 ~10–15 km jižně, pod Trollskou stěnou) — nejlepší free spot údolí, WC u Trollveggen Stasjon · placeno v centru Isfjordsvegen ~150 NOK (voda zdarma). ⚠️ **vrchní parko Trollstigenu = jen den, spaní zakázáno 00–06.**
+- **Geiranger** *(jedna z nejpřísnějších zón, policie pokutuje)*: 🆓 **Grotli** (Rv15 na plošině ~30 km, štěrk, výhled, bez signálu — do Geirangeru zajeď přes den) · **Flydalsjuvet = ZÁKAZ přenocování** · legálně u fjordu **Vinje Camping**.
+- **Atlantic Road / Molde:** 🆓 **hlavní parko u mostu Storseisund** (~63.008, 7.297 — neobvykle chráněné valy, ~10 aut, přijeď před polednem) · Molde **Varden** (panorama, strmý příjezd) · vyhlídky Eldhusøya/Askevågen a mosty Myrbærholmen = **jen den**.
+- **E6 Trondheim→Mo i Rana:** 🆓 **Laksforsen** parko u vodopádu (~65.625, 13.292 — nejlepší free, buď soběstačný, kavárna zavřená do jara 2026) · 🆓 **Namsskogan** (velké štěrkové) · 🆓 **Mo i Rana – Hammerveien/Selfors** (vytápěné WC!) · placeně u jezera **Vegset Camping** (Snåsavatnet). ⚠️ u Snåsavatnetu free legální spot nenalezen → počítej s Vegsetem.
+- **Saltstraumen/Bodø:** ⚠️ **parko u mostu Saltstraumen = ZÁKAZ** (kamery, pokuty) → **Pluscamp/Camp Saltstraumen** · v Bodø 🆓 **fronta na trajekt Terminalveien** (~67.288, 14.396, brzký odjezd; WC hlášeno zavřené 20–08) nebo placený **Rønvik Marina Bobil**.
+- **Lofoty** *(nejpřísnější — divoké spaní na slavných spotech je ZAKÁZÁNO a vymáháno, pokuty 900–1900 NOK)*: **plánuj placené kempy ~250–600 NOK, přijížděj do ~14–16 h.**
+  - **Jih (Reine/Å):** **Moskenes Camping** (bere rezervace, u trajektu, ~450 NOK) · Reine Ytre Havn (~250 NOK). ⚠️ **celá Reine = zóna zákazu parkování od 5/2025.**
+  - **Ramberg/Flakstad:** **Lofoten Beach Camp** (Skagsanden, **6 EV nabíječek**, přijeď před 18 h) · Fredvang Strand. ⚠️ Ramberg i Skagsanden pláže = **max 2 h, bez spaní.**
+  - **Leknes/Ballstad:** **Reineholmen Bobilcamp** (bere rezervace, elektrika v ceně). ⚠️ Haukland/Uttakleiv = jen placené se skenem SPZ; v Leknes **není dump.**
+  - **Henningsvær/Svolvær:** ve vesnici Henningsvær **nespat** → **Lyngvær Bobilcamping** (~3 km od odbočky) nebo **Kabelvåg Feriehus** (vlastní EV nabíječka) · Svolvær **Lofoten Feriesenter**.
+  - **⚡ Tesla na Lofotech:** SC **Svolvær** (16×250 kW), **Leknes** (~12), **Reine** (6, u parkoviště Reinebringen). Hookup v kempech je pomalý (~3,6 kW) — vezmi **Type-2/CEE adaptér**.
+
 ## 📌 Pár „dej si pozor"
 - **Trajekty** — Lofoty jdou po E10 bez lodi; Helsinki–Tallinn (když do Pobaltí) v létě rezervovat
 - **Norské mýto/tunely** — registruj auto do **AutoPASS** (EV sleva, jinak faktury domů)
